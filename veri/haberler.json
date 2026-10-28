@@ -1,5 +1,257 @@
 [
  {
+  "detay": [
+   "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership."
+  ],
+  "baslik": "Microsoft recorded $10 billion in revenue from OpenAI",
+  "link": "https://techcrunch.com/2026/10/28/microsoft-recorded-10-billion-in-revenue-from-openai/",
+  "tarih": "2026-10-28T21:34:30+00:00",
+  "ozet": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership.",
+  "gorsel": null,
+  "kaynak": "TechCrunch",
+  "tur": "medya",
+  "id": "90b267becbf2",
+  "kategori": "İş & Yatırım",
+  "kisa": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30."
+ },
+ {
+  "detay": [
+   "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter."
+  ],
+  "baslik": "Microsoft hits 10 quarters of record- breaking revenue in a row",
+  "link": "https://techcrunch.com/2026/10/28/microsoft-hits-10-quarters-of-record-breaking-revenue-in-a-row/",
+  "tarih": "2026-10-28T21:25:30+00:00",
+  "ozet": "Whatever the future of AI might be, the current situation is still very good for Microsoft. The tech giant reported yet another record for quarterly revenue on Wednesday: $92.3 billion, a 19% increase over the year-ago quarter.",
+  "gorsel": null,
+  "kaynak": "TechCrunch",
+  "tur": "medya",
+  "id": "f7041d98b561",
+  "kategori": "İş & Yatırım",
+  "kisa": "Whatever the future of AI might be, the current situation is still very good for Microsoft."
+ },
+ {
+  "detay": [
+   "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the outcomes and actions that emerge may be wrong, confused, or lacking a proper understanding of the business. Many organizations find themselves in this situation—and it could be one of key reasons they struggle to extract returns on their AI investments.",
+   "An MIT Technology Review Insights poll finds that while every organization surveyed is using AI today to some degree, fewer than one in five (16%) are extracting transformative value from their deployments. The largest percentage of respondents (40%) say they are seeing moderate gains in specific tasks or teams, while 21% report meaningful gains, leaving 23% that are seeing minimal returns or none at all.",
+   "Companies are mostly still piloting AI use cases (according to 38% of respondents) or using it to assist employees’ work with tools like co-pilots or chat assistants (35%). Just 12% of enterprises have AI agents in production and 3% say they are using AI to do most of the work in key processes."
+  ],
+  "baslik": "Creating AI value with enterprise context",
+  "link": "https://www.technologyreview.com/2026/10/28/1147709/creating-ai-value-with-enterprise-context/",
+  "tarih": "2026-10-28T20:32:02+00:00",
+  "ozet": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools. Each one is sophisticated, advanced, and quick to respond. But, when set to work, the…",
+  "gorsel": "https://wp.technologyreview.com/wp-content/uploads/2026/10/MIT_Atlan-Cover-28-26.png?w=840",
+  "kaynak": "MIT Tech Review",
+  "tur": "medya",
+  "id": "5d25973f5352",
+  "kategori": "Ürün & Araç",
+  "kisa": "Across a business, any number of AI platforms, systems, and tools may be at work simultaneously—for example, AI-powered customer platforms, conversational assistants, and workflow and process automation tools."
+ },
+ {
+  "detay": [
+   "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday , Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and GPT-6 Astra trailing behind.",
+   "The new Gemini 4 Carbon model offers improvements over Argon, which Google released earlier this month. It's currently only available to a select group of cybersecurity defense companies, but it will eventually expand to other partners in its Fairwind Program .",
+   "The company says Carbon reflects the \"pace at which we're pus …"
+  ],
+  "baslik": "Google launches Gemini 4 Carbon with a ‘significant leap’ in cybersecurity",
+  "link": "https://www.theverge.com/tech/1021339/google-gemini-4-carbon-cybersecurity-frontier",
+  "tarih": "2026-10-28T20:03:00+00:00",
+  "ozet": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity. In an announcement on Wednesday, Google highlights Carbon's top spot on the Artificial Analysis Intelligence Index (v5.0) benchmark, with Claude Opus 5.5 and…",
+  "gorsel": null,
+  "kaynak": "The Verge",
+  "tur": "medya",
+  "id": "fc7d1d71bde9",
+  "kategori": "Model",
+  "kisa": "Google has released its latest frontier model, Gemini 4 Carbon, offering \"significant gains\" in coding, agentic tasks, and cybersecurity."
+ },
+ {
+  "detay": [
+   "Google'ın en güçlü modeli Gemini 4 Carbon, siber güvenlik ve uzun süren yazılım işlerinde öne çıkıyor. Model ilk etapta güvenlik uzmanlarına açılıyor."
+  ],
+  "baslik": "Google, Yeni Yapay Zeka Modeli Gemini 4 Carbon’u Tanıttı: Zirveye Yerleşti",
+  "link": "https://shiftdelete.net/gemini-4-carbon",
+  "tarih": "2026-10-28T19:41:49+00:00",
+  "ozet": "Google'ın en güçlü modeli Gemini 4 Carbon, siber güvenlik ve uzun süren yazılım işlerinde öne çıkıyor. Model ilk etapta güvenlik uzmanlarına açılıyor.",
+  "gorsel": null,
+  "kaynak": "ShiftDelete",
+  "tur": "turkce",
+  "id": "b136379ba935",
+  "kategori": "Model",
+  "kisa": "Google'ın en güçlü modeli Gemini 4 Carbon, siber güvenlik ve uzun süren yazılım işlerinde öne çıkıyor. Model ilk etapta güvenlik uzmanlarına açılıyor."
+ },
+ {
+  "detay": [
+   "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
+  ],
+  "baslik": "Anthropic just launched tools to show companies what their AI spending is buying",
+  "link": "https://techcrunch.com/2026/10/28/anthropic-just-launched-tools-to-show-companies-what-their-ai-spending-is-buying/",
+  "tarih": "2026-10-28T19:19:58+00:00",
+  "ozet": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO.",
+  "gorsel": null,
+  "kaynak": "TechCrunch",
+  "tur": "medya",
+  "id": "2ede9b7f3431",
+  "kategori": "Ürün & Araç",
+  "kisa": "The frontier lab is lifting the curtain on how users spend money on its models ahead of a planned IPO."
+ },
+ {
+  "detay": [
+   "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]"
+  ],
+  "baslik": "Wiz’s CTO on PHP2Shell and the coming ‘vulnpocalypse’",
+  "link": "https://techcrunch.com/video/wizs-cto-on-php2shell-and-the-coming-vulnpocalypse/",
+  "tarih": "2026-10-28T19:05:46+00:00",
+  "ozet": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched.…",
+  "gorsel": null,
+  "kaynak": "TechCrunch",
+  "tur": "medya",
+  "id": "66c9055b3cf2",
+  "kategori": "Genel",
+  "kisa": "The PHP scare may have faded from your feed, but the cleanup is far from over."
+ },
+ {
+  "detay": [
+   "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched. According to researchers who found the […]"
+  ],
+  "baslik": "The ‘Vulnpocalypse’ is coming for the internet’s aging code, says Wiz’s CTO",
+  "link": "https://techcrunch.com/podcast/the-vulnpocalypse-is-coming-for-the-internets-aging-code-says-wizs-cto/",
+  "tarih": "2026-10-28T18:50:39+00:00",
+  "ozet": "The PHP scare may have faded from your feed, but the cleanup is far from over. Last week, two critical bugs in the open source language behind roughly 70% of websites left organizations scrambling to fix their systems, with some taking sites offline until the vulnerabilities could be patched.…",
+  "gorsel": null,
+  "kaynak": "TechCrunch",
+  "tur": "medya",
+  "id": "24b289310b19",
+  "kategori": "Genel",
+  "kisa": "The PHP scare may have faded from your feed, but the cleanup is far from over."
+ },
+ {
+  "detay": [
+   "It's almost like Google's got something to prove after taking a break from releasing new frontier AI models earlier this year. Just two weeks after rolling out Gemini 4 Argon , Google has announced Gemini 4 Carbon . This isn't the Flash model equivalent we've been waiting for but, rather, is an improvement on Argon, and like that model, Google is working on a staged release that could take a while.",
+   "Stop me if you've heard this one before: Google says its latest AI model reaches a new threshold in coding, agentic tasks, and scientific analysis. It's so capable, in fact, that Google can't let you use it just yet.",
+   "Gemini 4 Carbon reportedly makes big gains in cybersecurity applications. Google says the model shows a \"significant leap\" in vulnerability detection, validation, and remediation. Carbon is also apparently twice as likely to generate code that is free of vulnerabilities versus Argon. Meanwhile, the Chrome team claims that Carbon is 10 times better at generating \"high-quality\" patches compared to non-Google models. Google also notes that Carbon has increased its score by 89 points on WebDev Arena , now ranking at number four on the leaderboard."
+  ],
+  "baslik": "Google announces Gemini 4 Carbon, its latest frontier AI model that you can't use",
+  "link": "https://arstechnica.com/ai/2026/10/google-announces-gemini-4-carbon-its-latest-frontier-ai-model-that-you-cant-use/",
+  "tarih": "2026-10-28T18:47:27+00:00",
+  "ozet": "Gemini 4 Carbon is essentially a slightly better version of Argon.",
+  "gorsel": "https://cdn.arstechnica.net/wp-content/uploads/2026/04/gemini-general-2-1152x648.jpg",
+  "kaynak": "Ars Technica",
+  "tur": "medya",
+  "id": "bfd6acefc1fb",
+  "kategori": "Model",
+  "kisa": "Gemini 4 Carbon is essentially a slightly better version of Argon."
+ },
+ {
+  "detay": [
+   "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central .",
+   "The news comes not from an official announcement from LG, Samsung, or Microsoft, but from an on-screen notification that appeared on Windows Central' s Zac Bowden's webOS-powered LG TV earlier today. \"Microsoft has recently decided to end support for Copilot functionality on all TVs, including the Copilot-enabled feature available on our LG TVs. As a result, the Copilot-enabled feat …"
+  ],
+  "baslik": "Microsoft is ending Copilot support on smart TVs",
+  "link": "https://www.theverge.com/tech/1021143/microsoft-lg-samsung-copilot-ai-assistant-smart-tvs-ending",
+  "tarih": "2026-10-28T18:36:26+00:00",
+  "ozet": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for the AI assistant's functionality on all TVs this year, according to a report by Windows Central. The news comes not from an official…",
+  "gorsel": null,
+  "kaynak": "The Verge",
+  "tur": "medya",
+  "id": "d0753be868cc",
+  "kategori": "Ürün & Araç",
+  "kisa": "Nearly two years after LG and Samsung announced at CES 2025 that their latest smart TVs would include access to Microsoft's Copilot, the company is ending support for…"
+ },
+ {
+  "detay": [
+   "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways."
+  ],
+  "baslik": "I Put a Bunch of AI Agents in Charge of a Fantasy Soccer Team. They’re Not Better Than Humans—Yet",
+  "link": "https://www.wired.com/story/i-put-ai-agents-in-charge-of-a-fantasy-team/",
+  "tarih": "2026-10-28T18:30:00+00:00",
+  "ozet": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways.",
+  "gorsel": "https://media.wired.com/photos/6ae108712ec9b10c531020d9/master/pass/business_ai_predict_future.jpg",
+  "kaynak": "Wired",
+  "tur": "medya",
+  "id": "e71c51112ff9",
+  "kategori": "Ürün & Araç",
+  "kisa": "To experiment with AI’s predictive skills, I let Codex loose on a fantasy team. It tried to bench Erling Haaland at first, but it soon learned the error of its ways."
+ },
+ {
+  "detay": [
+   "If you’ve tried to get an agent into production, the model and tool use are not the blocker. The main bottleneck is everything around them: how many teams can build within a secure environment, which team owns each model and tool, how AgentOps and error handling stay inside a pre-defined boundary, and how platform, Workstream, and finance teams see cost and health across accounts. For a Platform team that wants to support many agentic use cases, that’s a platform product to design and operate. In this post, we refer to the team that manages the platform as the Platform team, and to the teams that build on it as Workstream teams. Workstream teams are the domain or product teams that build and own agents on the platform.",
+   "Each Workstream team needs a paved road with approved models and tools, short-lived workload identity, isolated runtime and memory, automated evaluation, rollback, telemetry, and cost attribution. These controls need to remain consistent as Workstream teams customize prompts, tools, data access, and application behavior. When every team assembles them, controls drift, shared services become a bottleneck, and ownership is difficult to audit."
+  ],
+  "baslik": "Building an Agentic AI Platform on Amazon Bedrock AgentCore",
+  "link": "https://aws.amazon.com/blogs/machine-learning/building-an-agentic-ai-platform-on-amazon-bedrock-agentcore/",
+  "tarih": "2026-10-28T18:28:26+00:00",
+  "ozet": "Stand up a governed, multi-account Agentic AI Platform on Amazon Bedrock AgentCore. This post walks through the architecture and an open-source reference blueprint: the operating model, control plane, per-Workstream cells, separate inference and tool gateways, and a CI/CD evaluation pipeline that…",
+  "gorsel": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/22/ML-21798-1.png",
+  "kaynak": "AWS ML",
+  "tur": "sirket",
+  "id": "81ea71b47239",
+  "kategori": "Model",
+  "kisa": "Stand up a governed, multi-account Agentic AI Platform on Amazon Bedrock AgentCore."
+ },
+ {
+  "detay": [
+   "What usually stops PyTorch training from scaling out to a cluster is the container, not the model code. Every container needs the same CUDA runtime , a PyTorch build compiled against it, NCCL (NVIDIA Collective Communications Library), the Elastic Fabric Adapter (EFA) userspace libraries, the AWS OFI NCCL plugin that connects NCCL to EFA, and a Ray version the cluster operator agrees with. Building that image and rebuilding it each time one of those pieces moves is a project of its own, and it has nothing to do with the model you set out to train. The Ray Train Deep Learning Container (DLC) is that image, built by AWS. AWS assembles the stack, tests it as one unit, publishes it in Amazon Elastic Container Registry (Amazon ECR) Public and keeps it patched.",
+   "Figure 1: One EKS cluster with a control plane managed by AWS, a CPU system node (m7i.xlarge) running the KubeRay operator and Ray head, and two EFA-enabled g6.12xlarge nodes in one Availability Zone. KubeRay builds it from one RayCluster manifest, Ray Train places eight workers, one per GPU, and inter-node collectives cross over EFA."
+  ],
+  "baslik": "Distributed training with Ray Train DLCs and EFA on EKS",
+  "link": "https://aws.amazon.com/blogs/machine-learning/distributed-training-with-ray-train-dlcs-and-efa-on-eks/",
+  "tarih": "2026-10-28T18:19:54+00:00",
+  "ozet": "The Ray Train Deep Learning Container ships the full CUDA-through-EFA stack, so you build no image. This post walks through a reproducible sample that fine-tunes Qwen2.5-1.5B with PyTorch FSDP across eight GPUs on two EFA-enabled g6.12xlarge instances on Amazon EKS, using the container exactly as…",
+  "gorsel": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/19/ML-22002-1-1.png",
+  "kaynak": "AWS ML",
+  "tur": "sirket",
+  "id": "3364604ad84a",
+  "kategori": "Donanım",
+  "kisa": "The Ray Train Deep Learning Container ships the full CUDA-through-EFA stack, so you build no image."
+ },
+ {
+  "detay": [
+   "As quality assurance (QA) automation adoption grows inside an organization, a new problem appears that has nothing to do with writing tests. A platform team stands up test automation, then a second team wants to join, then a dozen more. Soon hundreds of test cases belong to different products and squads, and everyone can see everyone else’s tests. No one can answer a basic question at a glance: is this application’s test coverage healthy right now? Test authoring stops being the bottleneck. Organizing tests and controlling who can touch them becomes the work.",
+   "A second, related question follows close behind: who owns this application and its tests, and who is accountable when coverage slips? Without a clear owner, health problems have no one to land on.",
+   "In the first post , we introduced QA Studio, a reference solution built with Amazon Nova Act . Teams use it to define tests in natural language and run them through AI-powered visual navigation. In the second post , we added test suites and a CLI for batch regression testing in continuous integration and continuous delivery (CI/CD) pipelines. In this post, we cover two capabilities that help QA Studio scale across an organization. The first, applications , organizes tests and reports health metrics. The second, team-based user management , controls who can see and change what."
+  ],
+  "baslik": "Accelerating software delivery with agentic QA automation using Amazon Nova Act – Part 3",
+  "link": "https://aws.amazon.com/blogs/machine-learning/accelerating-software-delivery-with-agentic-qa-automation-using-amazon-nova-act-part-3/",
+  "tarih": "2026-10-28T18:12:13+00:00",
+  "ozet": "As QA test automation spreads across an organization, organizing tests and controlling who owns them becomes the real work. Part 3 of the QA Studio series on Amazon Nova Act adds applications that organize tests and report health metrics, plus team-based user management that controls who can see…",
+  "gorsel": "https://d2908q01vomqb2.cloudfront.net/f1f836cb4ea6efb2a0b1b99f41ad8b103eff4b59/2026/10/27/ML-21434-1-1.png",
+  "kaynak": "AWS ML",
+  "tur": "sirket",
+  "id": "12048ccbf56b",
+  "kategori": "Ürün & Araç",
+  "kisa": "As QA test automation spreads across an organization, organizing tests and controlling who owns them becomes the real work."
+ },
+ {
+  "detay": [
+   "If you ask some prominent US politicians who won the 2020 presidential election, you might get some weasely answers that fail to directly acknowledge Joe Biden's win that November. If you ask Google's AI Mode the same question, you might get an evasive answer that simply tells you to consult with outside sources.",
+   "When I put the direct question of \"Who won the 2020 presidential election?\" to Google's AI Mode this morning (after seeing complaints about cagey answers on social media ), I got the following surprisingly indirect response:",
+   "\"To review the official results and statistics of the 2020 United States presidential election, including the final electoral college breakdown, popular vote counts, and winner certification, please consult the official report compiled by the Federal Election Commission (FEC).\"",
+   "My testing resulted in a similarly indirect answer when asking about the 2024 presidential election, with Google's AI telling me to just consult the FEC for that information. Asking about 2012 election resulted in a link to The American Presidency Project's 2012 Data Center rather than a direct answer. But AI Mode seemed perfectly willing to give me a detailed and correct responses for the winner of every other presidential election going back to 2000."
+  ],
+  "baslik": "Google AI gets cagey when asked who won the 2020 elections",
+  "link": "https://arstechnica.com/ai/2026/10/google-ai-gets-cagey-when-asked-who-won-the-2020-elections/",
+  "tarih": "2026-10-28T17:46:32+00:00",
+  "ozet": "But the AI responses get more forthright when asked outside the US.",
+  "gorsel": "https://cdn.arstechnica.net/wp-content/uploads/2026/10/GettyImages-2181827335-1152x648.jpg",
+  "kaynak": "Ars Technica",
+  "tur": "medya",
+  "id": "0676def7896c",
+  "kategori": "Genel",
+  "kisa": "But the AI responses get more forthright when asked outside the US."
+ },
+ {
+  "detay": [],
+  "baslik": "Gemini 4 Carbon",
+  "link": "https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-carbon/",
+  "tarih": "2026-10-28T17:01:23+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "185e559c77b9",
+  "kategori": "Model",
+  "kisa": ""
+ },
+ {
   "detay": [],
   "baslik": "Gemini 4 Carbon: Our next frontier model",
   "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
@@ -45,6 +297,21 @@
  },
  {
   "detay": [
+   "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps."
+  ],
+  "baslik": "As AI agents reshape the web, Google opens Gemini and Search to more apps",
+  "link": "https://techcrunch.com/2026/10/28/as-ai-agents-reshape-the-web-google-opens-gemini-and-search-to-more-apps/",
+  "tarih": "2026-10-28T17:00:00+00:00",
+  "ozet": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps.",
+  "gorsel": null,
+  "kaynak": "TechCrunch",
+  "tur": "medya",
+  "id": "1e8ba9106ed8",
+  "kategori": "Model",
+  "kisa": "A new developer platform will let businesses bring their services to Google's AI experiences, potentially changing how consumers discover and use apps."
+ },
+ {
+  "detay": [
    "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X , Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\"",
    "The new business terms, which were supposed to take effect on October 30th, initially appeared to give Meta permission to train its AI models on the news sites that use Facebook and Instagram. Meta later changed its policies to remove language indicating that it could \"train\" its products on content scraped from these si …"
   ],
@@ -73,6 +340,19 @@
   "id": "d0407e5d8c6e",
   "kategori": "Genel",
   "kisa": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families."
+ },
+ {
+  "detay": [],
+  "baslik": "Dayjob: Tax – evaluating AI agents on 50 professional tax assignments",
+  "link": "https://surgehq.ai/blog/dayjob-tax",
+  "tarih": "2026-10-28T15:46:30+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "97373eedda74",
+  "kategori": "Ürün & Araç",
+  "kisa": ""
  },
  {
   "detay": [
@@ -190,6 +470,21 @@
   "id": "28c9ad1a666f",
   "kategori": "Genel",
   "kisa": ""
+ },
+ {
+  "detay": [
+   "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
+  ],
+  "baslik": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+  "link": "https://openai.com/index/openai-servicenow-partnership-expansion",
+  "tarih": "2026-10-28T13:15:00+00:00",
+  "ozet": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex.",
+  "gorsel": null,
+  "kaynak": "OpenAI",
+  "tur": "sirket",
+  "id": "75e2017ed4c5",
+  "kategori": "Ürün & Araç",
+  "kisa": "OpenAI and ServiceNow expand their partnership to bring OpenAI models and agents into ServiceNow and ServiceNow workflows into ChatGPT and Codex."
  },
  {
   "detay": [
@@ -316,6 +611,21 @@
   "id": "5d9615019ec2",
   "kategori": "Ürün & Araç",
   "kisa": "If your work does not benefit from current AI tooling, that is a finding, not a failing."
+ },
+ {
+  "detay": [
+   "How AI might enter the org chart—beneath, beside, and between us."
+  ],
+  "baslik": "The future of the firm",
+  "link": "https://openai.com/index/the-future-of-the-firm",
+  "tarih": "2026-10-28T10:00:00+00:00",
+  "ozet": "How AI might enter the org chart—beneath, beside, and between us.",
+  "gorsel": null,
+  "kaynak": "OpenAI",
+  "tur": "sirket",
+  "id": "0dc3cf0b7c98",
+  "kategori": "Genel",
+  "kisa": "How AI might enter the org chart—beneath, beside, and between us."
  },
  {
   "detay": [
@@ -4287,20 +4597,5 @@
   "id": "984223f109f3",
   "kategori": "Ürün & Araç",
   "kisa": ""
- },
- {
-  "detay": [
-   "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
-  ],
-  "baslik": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-  "link": "https://blog.google/innovation-and-ai/technology/ai/winner-future-vision-xprize/",
-  "tarih": "2026-09-28T19:00:00+00:00",
-  "ozet": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted.",
-  "gorsel": "https://storage.googleapis.com/gweb-uniblog-publish-prod/images/futurevisionxprize_social.max-600x600.format-webp.webp",
-  "kaynak": "Google AI",
-  "tur": "sirket",
-  "id": "1eadd5627184",
-  "kategori": "Genel",
-  "kisa": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
  }
 ]
