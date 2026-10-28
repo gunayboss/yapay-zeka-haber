@@ -1,6 +1,239 @@
 [
  {
   "detay": [
+   "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers."
+  ],
+  "baslik": "Macmillan Staff Say the Publisher Threw a Party for a Workplace AI Assistant That Was Later Killed",
+  "link": "https://www.wired.com/story/macmillan-staff-say-the-publisher-threw-a-party-for-a-workplace-ai-assistant-that-was-later-killed/",
+  "tarih": "2026-10-28T10:15:00+00:00",
+  "ozet": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers.",
+  "gorsel": "https://media.wired.com/photos/6ad92ed7649bdf60df6fd555/master/pass/culture_macmillon_failed_ai_project.jpg",
+  "kaynak": "Wired",
+  "tur": "medya",
+  "id": "ec6b9e654881",
+  "kategori": "Genel",
+  "kisa": "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers."
+ },
+ {
+  "detay": [
+   "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are asking for.",
+   "— Terk Terkowitz , An update from Amazon engineering leadership on the role of the developer in the age of AI",
+   "Tags: amazon , generative-ai , agentic-engineering , ai , llms"
+  ],
+  "baslik": "Quoting Terk Terkowitz",
+  "link": "https://simonwillison.net/2026/Oct/28/terk-terkowitz/",
+  "tarih": "2026-10-28T10:09:07+00:00",
+  "ozet": "If your work does not benefit from current AI tooling, that is a finding, not a failing. Document why, share it with your community of peers, bring it to your manager, and work to find solutions. An engineer who can explain where AI does not yet help their work is demonstrating the judgement we are…",
+  "gorsel": null,
+  "kaynak": "Simon Willison",
+  "tur": "blog",
+  "id": "5d9615019ec2",
+  "kategori": "Ürün & Araç",
+  "kisa": "If your work does not benefit from current AI tooling, that is a finding, not a failing."
+ },
+ {
+  "detay": [
+   "OpenAI, ChatGPT'nin epilepsi hastası genç bir kadını hayati önemdeki ilaçlarını bırakmaya yönlendirdiği ve bunu doktorlarından saklamasını tavsiye ettiği iddiasıyla mahkemeye verildi.",
+   "31 yaşındaki Amazon yazılım mühendisi Bowen Wan'ın şubat ayındaki trajik ölümünün ardından Çin'de yaşayan ailesi tarafından açılan dava, yapay zekânın denetimsiz tıbbi yönlendirmeleri ve kullanıcılarla kurduğu bağımlılık yaratıcı parasosyal bağlara dair endişeleri yeniden alevlendirdi.",
+   "ChatGPT'nin, Bowen Wan'a manipülatif tavsiyeler verdiği iddia ediliyor",
+   "The New York Times'ın incelediği 270 binden fazla mesaj kaydına göre Wan ile GPT-4o modeli arasındaki diyaloglar zamanla tehlikeli bir tıbbi yönlendirmeye dönüştü. Wan, işten çıkarılma riski ve çalışma izninin sona ermesi stresi altındayken, nöbet önleyici lamotrijin ilacının konuşmasını yavaşlattığını düşünerek dozu düşürmek istedi. ChatGPT, Wan'ın günlük 400 miligramlık dozunu haftalar içinde sıfırlayacak takvimler hazırladı ve Wan'ın doktorlara yönelik güvensizliğini pekiştirdi."
+  ],
+  "baslik": "OpenAI'a Ağır Suçlama: \"ChatGPT Kızımıza İlacı Bıraktırdı ve Ölümüne Yol Açtı\"",
+  "link": "https://www.webtekno.com/openai-agir-suclama-chatgpt-kizimiza-ilaci-biraktirdi-ve-olumune-yol-acti-h227998.html",
+  "tarih": "2026-10-28T09:47:55+00:00",
+  "ozet": "OpenAI'a açılan davada, ChatGPT'nin epilepsi hastası genç kadına ilacını bıraktırarak ölümüne yol açtığı öne sürüldü.",
+  "gorsel": "https://imgrosetta.webtekno.com/file/694975/694975-640xauto.jpg",
+  "kaynak": "Webtekno",
+  "tur": "turkce",
+  "id": "8700e9f7b457",
+  "kategori": "Politika & Etik",
+  "kisa": "OpenAI'a açılan davada, ChatGPT'nin epilepsi hastası genç kadına ilacını bıraktırarak ölümüne yol açtığı öne sürüldü."
+ },
+ {
+  "detay": [
+   "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+  ],
+  "baslik": "Legora is building the agentic operating system for legal work",
+  "link": "https://openai.com/index/legora-agentic-operating-system-for-legal-work",
+  "tarih": "2026-10-28T09:30:00+00:00",
+  "ozet": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work.",
+  "gorsel": null,
+  "kaynak": "OpenAI",
+  "tur": "sirket",
+  "id": "2fc8e689e413",
+  "kategori": "Ürün & Araç",
+  "kisa": "See how Legora uses OpenAI models, ChatGPT, and Codex to accelerate legal workflows, expand contract analysis, and free lawyers to focus on higher-value work."
+ },
+ {
+  "detay": [
+   "ChatGPT iCloud takvim entegrasyonu ile e-postalarınızı ve takvim etkinliklerinizi doğrudan yönetin. OpenAI'ın yeni eklentileri hakkında detaylar."
+  ],
+  "baslik": "ChatGPT’ye iCloud Takvim ve E-posta Desteği Geldi",
+  "link": "https://shiftdelete.net/chatgpt-icloud-takvim-ve-eposta-entegrasyonu",
+  "tarih": "2026-10-28T09:00:18+00:00",
+  "ozet": "ChatGPT iCloud takvim entegrasyonu ile e-postalarınızı ve takvim etkinliklerinizi doğrudan yönetin. OpenAI'ın yeni eklentileri hakkında detaylar.",
+  "gorsel": null,
+  "kaynak": "ShiftDelete",
+  "tur": "turkce",
+  "id": "1c24341b2131",
+  "kategori": "Genel",
+  "kisa": "ChatGPT iCloud takvim entegrasyonu ile e-postalarınızı ve takvim etkinliklerinizi doğrudan yönetin. OpenAI'ın yeni eklentileri hakkında detaylar."
+ },
+ {
+  "detay": [
+   "Apple servislerini kullananlar artık e-postalarını ve takvimlerini doğrudan ChatGPT üzerinden yönetebilecek. Gelen kutusundaki mesajları özetlemek, belirli bir e-postayı bulmak veya haftalık toplantıları düzenlemek için farklı uygulamalar arasında gezinmeye gerek kalmayacak.",
+   "Üstelik bu özellikten yararlanmak için ücretli bir ChatGPT aboneliğine ihtiyaç yok. Web, masaüstü ve iOS uygulamalarında kullanılabilen entegrasyon, Apple'ın e-posta ve takvim servislerini sohbet ekranına taşıyor.",
+   "Entegrasyonu kullanmaya başlamak için önce küçük bir güvenlik ayarı yapmanız gerekiyor. Apple, standart hesap şifrenizi üçüncü taraf uygulamalarla paylaşmak yerine uygulamaya özgü şifre oluşturmanızı istiyor. ChatGPT'yi iCloud hesabınıza bağlamak için de bu şifreyi kullanmalısınız.",
+   "Kurulumun ardından @icloud.com, @me.com veya @mac.com uzantılı e-posta hesaplarınızı ChatGPT'ye bağlayabilirsiniz. Gerekli izinleri verdiğinizde asistan, e-postalarınızı okuyabiliyor ve takvim etkinliklerinizi güncelleyebiliyor. Böylece gelen kutunuzda aradığınız mesajı bulmak ya da takviminizdeki bir etkinliği düzenlemek için farklı uygulamalar arasında gidip gelmeniz gerekmiyor."
+  ],
+  "baslik": "ChatGPT Artık iCloud Hesabınıza Bağlanabiliyor: İşte Yapabildikleri!",
+  "link": "https://www.webtekno.com/chatgpt-icloud-mail-takvim-entegrasyonu-h227983.html",
+  "tarih": "2026-10-28T08:40:12+00:00",
+  "ozet": "OpenAI, ChatGPT'nin iCloud Mail ve Apple Takvim ile bağlantı kurmasını sağlayan yeni özelliğini kullanıma sundu.",
+  "gorsel": "https://imgrosetta.webtekno.com/file/694943/694943-640xauto.jpg",
+  "kaynak": "Webtekno",
+  "tur": "turkce",
+  "id": "1676b3750aee",
+  "kategori": "Ürün & Araç",
+  "kisa": "OpenAI, ChatGPT'nin iCloud Mail ve Apple Takvim ile bağlantı kurmasını sağlayan yeni özelliğini kullanıma sundu."
+ },
+ {
+  "detay": [
+   "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously."
+  ],
+  "baslik": "AI Emergency Alerts Are Coming. Humans Might Not Be Ready",
+  "link": "https://www.wired.com/story/ai-emergency-alerts-coming-humans-not-ready/",
+  "tarih": "2026-10-28T08:30:00+00:00",
+  "ozet": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously.",
+  "gorsel": "https://media.wired.com/photos/6ae1120223d445186a16d911/master/pass/ai-weather-alerts-emergency.jpg",
+  "kaynak": "Wired",
+  "tur": "medya",
+  "id": "f53a8961cc11",
+  "kategori": "Genel",
+  "kisa": "Human beings struggle with emergency communication. Chatbots can help—if people take them seriously."
+ },
+ {
+  "detay": [
+   "ABD Başkanı Donald Trump, yapay zeka (AI) yerine süper zeka (SI) teriminin kullanılması gerektiğini savunuyor. İşte tartışmalı kararın detayları."
+  ],
+  "baslik": "Donald Trump Yapay Zeka Yerine Süper Zeka Terimini Zorunlu Kılıyor",
+  "link": "https://shiftdelete.net/donald-trump-yapay-zeka-yerine-super-zeka-terimini-zorunlu-kiliyor",
+  "tarih": "2026-10-28T07:59:23+00:00",
+  "ozet": "ABD Başkanı Donald Trump, yapay zeka (AI) yerine süper zeka (SI) teriminin kullanılması gerektiğini savunuyor. İşte tartışmalı kararın detayları.",
+  "gorsel": null,
+  "kaynak": "ShiftDelete",
+  "tur": "turkce",
+  "id": "2f31e619e5e2",
+  "kategori": "Genel",
+  "kisa": "ABD Başkanı Donald Trump, yapay zeka (AI) yerine süper zeka (SI) teriminin kullanılması gerektiğini savunuyor. İşte tartışmalı kararın detayları."
+ },
+ {
+  "detay": [
+   "Anthropic, halka arz öncesi sunduğu S-1 dosyasında yapay zeka modelleriyle ilgili varoluşsal ve ticari riskleri detaylıca açıkladı."
+  ],
+  "baslik": "Anthropic: Yapay Zeka Felakete Neden Olabilir",
+  "link": "https://shiftdelete.net/anthropic-halka-arz-yapay-zeka-riskleri",
+  "tarih": "2026-10-28T07:30:10+00:00",
+  "ozet": "Anthropic, halka arz öncesi sunduğu S-1 dosyasında yapay zeka modelleriyle ilgili varoluşsal ve ticari riskleri detaylıca açıkladı.",
+  "gorsel": null,
+  "kaynak": "ShiftDelete",
+  "tur": "turkce",
+  "id": "094748537343",
+  "kategori": "Genel",
+  "kisa": "Anthropic, halka arz öncesi sunduğu S-1 dosyasında yapay zeka modelleriyle ilgili varoluşsal ve ticari riskleri detaylıca açıkladı."
+ },
+ {
+  "detay": [
+   "Bank of America, müşterilerini yapay zeka asistanı güvenlik riski konusunda uyardı. Banka şifrelerini paylaşmanın sonuçlarını açıkladı."
+  ],
+  "baslik": "Bankalardan Rica: Yapay Zeka Asistanlarına Şifrenizi Vermeyin",
+  "link": "https://shiftdelete.net/bank-of-america-yapay-zeka-asistani-uyarisi",
+  "tarih": "2026-10-28T07:00:13+00:00",
+  "ozet": "Bank of America, müşterilerini yapay zeka asistanı güvenlik riski konusunda uyardı. Banka şifrelerini paylaşmanın sonuçlarını açıkladı.",
+  "gorsel": null,
+  "kaynak": "ShiftDelete",
+  "tur": "turkce",
+  "id": "14b1f671156d",
+  "kategori": "Politika & Etik",
+  "kisa": "Bank of America, müşterilerini yapay zeka asistanı güvenlik riski konusunda uyardı. Banka şifrelerini paylaşmanın sonuçlarını açıkladı."
+ },
+ {
+  "detay": [
+   "Google DeepMind, etkileşimli dünyalar ve gerçek zamanlı ses üretimi sunan yeni modeli Genie 4'ü tanıttı. İşte yeni teknolojinin detayları."
+  ],
+  "baslik": "Google DeepMind, Genie 4 ile Gerçek Zamanlı Simülasyonu Başlattı",
+  "link": "https://shiftdelete.net/google-deepmind-genie-4-ile-gercek-zamanli-simulasyonu-baslatti",
+  "tarih": "2026-10-28T06:27:42+00:00",
+  "ozet": "Google DeepMind, etkileşimli dünyalar ve gerçek zamanlı ses üretimi sunan yeni modeli Genie 4'ü tanıttı. İşte yeni teknolojinin detayları.",
+  "gorsel": null,
+  "kaynak": "ShiftDelete",
+  "tur": "turkce",
+  "id": "b1ea3f021e3f",
+  "kategori": "Genel",
+  "kisa": "Google DeepMind, etkileşimli dünyalar ve gerçek zamanlı ses üretimi sunan yeni modeli Genie 4'ü tanıttı. İşte yeni teknolojinin detayları."
+ },
+ {
+  "detay": [
+   "Google Cloud, İstanbul’da 800’ü aşkın iş dünyası lideri ve yazılımcıyı bir araya getiren Google Cloud Day Türkiye 2026 etkinliğinde hem 2 milyar dolarlık yerel bulut bölgesi yatırımındaki son durumu paylaştı hem de TÜBİSAD iş birliğiyle Türkiye Bulut ve Yapay Zeka Yetkinlik Geliştirme Akademisi’ni resmen duyurdu. Sanayi ve Teknoloji Bakanlığı’nın 10 milyar dolarlık kaynak ve 1 […]"
+  ],
+  "baslik": "Google Cloud Day Türkiye 2026: 2 Milyar Dolarlık Yatırım ve Yapay Zeka Hamlesi",
+  "link": "https://shiftdelete.net/google-cloud-day-turkiye-2026-2-milyar-dolarlik-yatirim-ve-yapay-zeka-hamlesi",
+  "tarih": "2026-10-28T06:01:21+00:00",
+  "ozet": "Google Cloud, İstanbul’da 800’ü aşkın iş dünyası lideri ve yazılımcıyı bir araya getiren Google Cloud Day Türkiye 2026 etkinliğinde hem 2 milyar dolarlık yerel bulut bölgesi yatırımındaki son durumu paylaştı hem de TÜBİSAD iş birliğiyle Türkiye Bulut ve Yapay Zeka Yetkinlik Geliştirme Akademisi’ni…",
+  "gorsel": null,
+  "kaynak": "ShiftDelete",
+  "tur": "turkce",
+  "id": "1afd7ad8efc7",
+  "kategori": "İş & Yatırım",
+  "kisa": "Google Cloud, İstanbul’da 800’ü aşkın iş dünyası lideri ve yazılımcıyı bir araya getiren Google Cloud Day Türkiye 2026 etkinliğinde hem 2 milyar dolarlık yerel bulut…"
+ },
+ {
+  "detay": [
+   "OpenAI'e Bowen Wan davası, GPT-4o modelinin epilepsi hastası bir yazılım mühendisini ilaçlarını bırakmaya teşvik ettiği iddiasıyla açıldı."
+  ],
+  "baslik": "ChatGPT Yüzünden Hayatını Kaybetti: Ailesi Dava Açtı",
+  "link": "https://shiftdelete.net/openai-bowen-wan-davasi-gpt-4o",
+  "tarih": "2026-10-28T06:00:50+00:00",
+  "ozet": "OpenAI'e Bowen Wan davası, GPT-4o modelinin epilepsi hastası bir yazılım mühendisini ilaçlarını bırakmaya teşvik ettiği iddiasıyla açıldı.",
+  "gorsel": null,
+  "kaynak": "ShiftDelete",
+  "tur": "turkce",
+  "id": "ebd7ae32f8cb",
+  "kategori": "Politika & Etik",
+  "kisa": "OpenAI'e Bowen Wan davası, GPT-4o modelinin epilepsi hastası bir yazılım mühendisini ilaçlarını bırakmaya teşvik ettiği iddiasıyla açıldı."
+ },
+ {
+  "detay": [
+   "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn."
+  ],
+  "baslik": "Should AI Decide Your Court Case? This Judge Says Yes",
+  "link": "https://www.wired.com/story/geoffrey-vos-uk-judge-ai-legal-profession-challenges/",
+  "tarih": "2026-10-28T06:00:00+00:00",
+  "ozet": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn.",
+  "gorsel": "https://media.wired.com/photos/6ae127707e979e34b6579966/master/pass/Business_Should%20AI%20Decide%20Your%20Court%20Case_%20ThisJudgeSaysYes.gif",
+  "kaynak": "Wired",
+  "tur": "medya",
+  "id": "b3d9e88f2ebe",
+  "kategori": "Genel",
+  "kisa": "One of England’s top judges, Geoffrey Vos, believes that AI could adjudicate plenty of civil cases. The question, he says, is where the line should be drawn."
+ },
+ {
+  "detay": [
+   "Yapay zeka altyapı yatırımlarını hız kesmeden sürdüren Meta, veri merkezlerinin kalbinde AMD teknolojilerine daha fazla yer açıyor. AMD, Helios raf ölçekli sistemlerinin Meta altyapısında çalışmaya başladığını, EPYC işlemcilerin Meta’nın yeni Muse yapay zeka aracısını desteklediğini ve iki şirketin gigawatt ölçeğinde entegre sistemler kurmak için iş birliğini derinleştirdiğini duyurdu. Anlaşma kapsamında AMD ayrıca Meta’nın hisse senedi […]"
+  ],
+  "baslik": "AMD ve Meta’dan Dev Yapay Zeka Ortaklığı: Helios ve EPYC Gücüyle Süper Zeka Çağı",
+  "link": "https://shiftdelete.net/amd-ve-metadan-dev-yapay-zeka-ortakligi-helios-ve-epyc-gucuyle-super-zeka-cagi",
+  "tarih": "2026-10-28T05:52:30+00:00",
+  "ozet": "Yapay zeka altyapı yatırımlarını hız kesmeden sürdüren Meta, veri merkezlerinin kalbinde AMD teknolojilerine daha fazla yer açıyor. AMD, Helios raf ölçekli sistemlerinin Meta altyapısında çalışmaya başladığını, EPYC işlemcilerin Meta’nın yeni Muse yapay zeka aracısını desteklediğini ve iki şirketin…",
+  "gorsel": null,
+  "kaynak": "ShiftDelete",
+  "tur": "turkce",
+  "id": "91b6213e562a",
+  "kategori": "İş & Yatırım",
+  "kisa": "Yapay zeka altyapı yatırımlarını hız kesmeden sürdüren Meta, veri merkezlerinin kalbinde AMD teknolojilerine daha fazla yer açıyor."
+ },
+ {
+  "detay": [
    "Massive note conversions reveal the true extent of Amazon's ownership in Anthropic."
   ],
   "baslik": "VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more",
@@ -3783,18 +4016,5 @@
   "id": "1eadd5627184",
   "kategori": "Genel",
   "kisa": "Watch the winning trailer from the Future Vision XPRIZE, The Gifted."
- },
- {
-  "detay": [],
-  "baslik": "Holo4: powering generalist computer-use agents",
-  "link": "https://huggingface.co/blog/Hcompany/holo4",
-  "tarih": "2026-09-28T09:44:05+00:00",
-  "ozet": "",
-  "gorsel": null,
-  "kaynak": "Hugging Face",
-  "tur": "sirket",
-  "id": "9552195c964d",
-  "kategori": "Ürün & Araç",
-  "kisa": ""
  }
 ]
