@@ -1,5 +1,291 @@
 [
  {
+  "detay": [],
+  "baslik": "Gemini 4 Carbon: Our next frontier model",
+  "link": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model/",
+  "tarih": "2026-10-28T17:00:58+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Google DeepMind",
+  "tur": "sirket",
+  "id": "b0da25ea6c1a",
+  "kategori": "Model",
+  "kisa": ""
+ },
+ {
+  "detay": [
+   "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
+  ],
+  "baslik": "Chrome’s AI-powered Autofill can now dig through your Gmail to fill out forms",
+  "link": "https://techcrunch.com/2026/10/28/chromes-ai-powered-autofill-can-now-dig-through-your-gmail-to-fill-out-forms/",
+  "tarih": "2026-10-28T17:00:00+00:00",
+  "ozet": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission.",
+  "gorsel": null,
+  "kaynak": "TechCrunch",
+  "tur": "medya",
+  "id": "765a5a74d244",
+  "kategori": "Genel",
+  "kisa": "The autofill update lets Chrome pull flight confirmations, tracking info, order details, and other information from your inbox, with your permission."
+ },
+ {
+  "detay": [
+   "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number , email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use Gemini with Personal Intelligence to suggest information sourced from your Gmail, potentially saving you from having to search for confirmation emails, receipts, or shipping updates yourself.",
+   "The expanded autofill capabilities can retrieve details such as a shipment's tracking number, travel details like a flight booking number or hotel reservation, …"
+  ],
+  "baslik": "Chrome’s enhanced autofill can now pull info from Gmail to help you fill out forms",
+  "link": "https://www.theverge.com/tech/1020626/chrome-enhanced-autofill-gmail-forms-gemini-personal-intelligence",
+  "tarih": "2026-10-28T17:00:00+00:00",
+  "ozet": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your Google Accounts and services like Google Wallet, the feature is now expanding. Starting today, Chrome's enhanced autofill will use…",
+  "gorsel": null,
+  "kaynak": "The Verge",
+  "tur": "medya",
+  "id": "c802108aab79",
+  "kategori": "Ürün & Araç",
+  "kisa": "Following improvements made to Chrome's enhanced autofill last year that included your name, passport number, email address, and physical addresses sourced from your…"
+ },
+ {
+  "detay": [
+   "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X , Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with industry groups and leaders.\"",
+   "The new business terms, which were supposed to take effect on October 30th, initially appeared to give Meta permission to train its AI models on the news sites that use Facebook and Instagram. Meta later changed its policies to remove language indicating that it could \"train\" its products on content scraped from these si …"
+  ],
+  "baslik": "Meta says it’ll probably delay its controversial new business terms again",
+  "link": "https://www.theverge.com/tech/1020769/meta-updated-business-terms-delay-indefinitely",
+  "tarih": "2026-10-28T16:15:30+00:00",
+  "ozet": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training. In a post on X, Meta communications head Andy Stone said the company does \"not plan to make policy changes without a full consultation with…",
+  "gorsel": null,
+  "kaynak": "The Verge",
+  "tur": "medya",
+  "id": "1739307690c3",
+  "kategori": "Politika & Etik",
+  "kisa": "Meta says it may push the implementation of its new business terms past November 20th as it faces backlash from publishers over concerns about AI training."
+ },
+ {
+  "detay": [
+   "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families."
+  ],
+  "baslik": "AI execs may be too out of touch to build for the general public",
+  "link": "https://techcrunch.com/2026/10/28/ai-execs-may-be-too-out-of-touch-to-build-for-the-general-public/",
+  "tarih": "2026-10-28T15:53:52+00:00",
+  "ozet": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families.",
+  "gorsel": null,
+  "kaynak": "TechCrunch",
+  "tur": "medya",
+  "id": "d0407e5d8c6e",
+  "kategori": "Genel",
+  "kisa": "Tech leaders are flaunting how out of touch they are when they brag about using AI to connect with their families."
+ },
+ {
+  "detay": [
+   "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia."
+  ],
+  "baslik": "South Korea’s financial industry hit by fresh wave of cyberattacks",
+  "link": "https://techcrunch.com/2026/10/28/south-koreas-financial-industry-hit-by-fresh-wave-of-cyberattacks/",
+  "tarih": "2026-10-28T15:41:18+00:00",
+  "ozet": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia.",
+  "gorsel": null,
+  "kaynak": "TechCrunch",
+  "tur": "medya",
+  "id": "feda3ad530f5",
+  "kategori": "Genel",
+  "kisa": "South Korea’s financial institutions have been hit by another wave of cyberattacks, highlighting the growing risk of AI-driven hacking in Asia."
+ },
+ {
+  "detay": [
+   "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do.",
+   "RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip with up to 128GB of unified memory and up to 1 petaflop of FP4 AI performance. That puts the NVIDIA CUDA platform, RTX graphics and the capabilities of a personal AI supercomputer inside premium Windows laptops built to go anywhere.",
+   "New and expected RTX Spark updates, coming soon, include:",
+   "NVIDIA Nemotron 3.5 Transcribe, an open weight speech model for transcription, speaker attribution and translation is available on RTX Spark.",
+   "The LFM3 family of open models with day-zero support.",
+   "Resource management controls in NVIDIA App to allocate GPU resources between foreground apps and background agents.",
+   "Phantom Blade Zero , S-GAME’s highly-anticipated action role-playing game, launches with ray tracing and NVIDIA DLSS 4.5.",
+   "Experience Minecraft with path tracing and DLSS with RTX Remix1.6, available now for RTX Spark.",
+   "Turn Recorded Audio Into Useful Information With NVIDIA Nemotron 3.5 Transcribe"
+  ],
+  "baslik": "Thin, Light and Built for Everything: NVIDIA RTX Spark Windows Laptops Gain New Models, Agent Tools and Games",
+  "link": "https://blogs.nvidia.com/blog/local-ai-rtx-spark-laptops-updates-models-agents-games/",
+  "tarih": "2026-10-28T15:00:46+00:00",
+  "ozet": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do. RTX Spark laptops are now available from ASUS, Dell, HP, Lenovo, Microsoft and MSI. These powerful systems combine an NVIDIA Blackwell RTX GPU and an NVIDIA Grace CPU in a single superchip…",
+  "gorsel": "https://blogs.nvidia.com/wp-content/uploads/2026/10/nv-blog-1280x680-2-1.jpg",
+  "kaynak": "NVIDIA",
+  "tur": "sirket",
+  "id": "2952348be6c4",
+  "kategori": "Ürün & Araç",
+  "kisa": "NVIDIA RTX Spark powers thin and light laptops built for everything that developers, creators and gamers do."
+ },
+ {
+  "detay": [
+   "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs."
+  ],
+  "baslik": "Voice AI in vogue: Nvidia releases new open transcription model",
+  "link": "https://techcrunch.com/2026/10/28/voice-ai-in-vogue-nvidia-releases-new-open-transcription-model/",
+  "tarih": "2026-10-28T15:00:00+00:00",
+  "ozet": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting and medical transcription tools while still leaving real-time use to rivals like ElevenLabs.",
+  "gorsel": null,
+  "kaynak": "TechCrunch",
+  "tur": "medya",
+  "id": "f1ebb512d4e0",
+  "kategori": "Model",
+  "kisa": "Nvidia just released a free speech-to-text model that can transcribe up to 40 languages, but it only works on recordings, not live audio, so it’s a big step for meeting…"
+ },
+ {
+  "detay": [],
+  "baslik": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+  "link": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+  "tarih": "2026-10-28T14:58:17+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hugging Face",
+  "tur": "sirket",
+  "id": "7ae8eb20550e",
+  "kategori": "Donanım",
+  "kisa": ""
+ },
+ {
+  "detay": [
+   "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian . A realtor going door-to-door in the Southaven neighborhood reportedly told one resident that xAI plans to purchase 418 homes, adding that 18 homeowners already have plans to sell. People who rent homes in the area report they're already being forced out , with 60 days' notice after their landlords agreed to sell.",
+   "A recent report from the Mississippi Free Press includes a letter received by several households rec …"
+  ],
+  "baslik": "xAI is buying out homeowners who promise not to sue over data center noise",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1020596/xai-mississippi-neighborhood-data-center-lawsuit",
+  "tarih": "2026-10-28T14:44:00+00:00",
+  "ozet": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data center and power plant, according to a report from The Guardian. A realtor going door-to-door in the Southaven neighborhood…",
+  "gorsel": null,
+  "kaynak": "The Verge",
+  "tur": "medya",
+  "id": "5283652bd524",
+  "kategori": "Politika & Etik",
+  "kisa": "A subsidiary of Elon Musk's xAI is offering to buy up homes in a Mississippi neighborhood, as long as residents don't join a lawsuit targeting the company's nearby data…"
+ },
+ {
+  "detay": [
+   "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflection point in October 2026, and this time it's for vibe coding computer games .",
+   "What happens if someone actually puts the work in?",
+   "Claude Opus 5.5 in particular exhibits meaningful improvements in several areas needed to build a compelling game:",
+   "Music generation (see Scrimshaw Jukebox )",
+   "That last one is particularly important. Models have been able to create something that looks like a game for quite a while now, as seen in my previous experiments . The challenge has been getting to a game that's actually fun to play .",
+   "Game design is a deep subject area. I won't pretend to be well versed in it - I know enough to have respect for it as a craft. Creating a novel, compelling gameplay loop which challenges players at the right level and provides a satisfying learning curve is a fine art. I didn't think the models could do it.",
+   "Then I tried telling Claude Opus 5.5 to \"Make it a LOT more fun\"... and it did .",
+   "In the past few weeks I've vibe coded (in the classic sense of the term - no looking at the code at all) four games that I've genuinely enjoyed playing."
+  ],
+  "baslik": "The October inflection point for vibe game development",
+  "link": "https://simonwillison.net/2026/Oct/28/vibe-game-development/",
+  "tarih": "2026-10-28T13:55:15+00:00",
+  "ozet": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their respective coding agents became reliable daily drivers for software engineers. I think we've reached a new inflection point in…",
+  "gorsel": "https://static.simonwillison.net/static/2026/tree-appreciator.webp",
+  "kaynak": "Simon Willison",
+  "tur": "blog",
+  "id": "93b9dc1d3128",
+  "kategori": "Model",
+  "kisa": "I've written before about how November 2025 was an inflection point for coding agents - the point where Opus 4.5 and GPT-5.1 crossed a tipping point that meant their…"
+ },
+ {
+  "detay": [],
+  "baslik": "Kentucky man becomes the first humanist granted religious exemption from AI",
+  "link": "https://religionnews.com/2026/10/26/in-a-first-a-humanist-granted-a-religious-exemption-from-using-ai/",
+  "tarih": "2026-10-28T13:41:30+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "28c9ad1a666f",
+  "kategori": "Genel",
+  "kisa": ""
+ },
+ {
+  "detay": [
+   "Bir apartman yöneticisinin ay sonunu düşünün. Banka ekstresi açılıyor, gelen her havalenin kime ait olduğu tek tek bulunuyor. Açıklamaya \"aidat\" yazıp daire numarasını unutan komşu için ayrıca telefon açılıyor. Elektrik faturası, asansör bakımı, bahçıvanın ücreti Excel'e elle giriliyor. Ay sonunda kasa ile banka bakiyesi tutmuyorsa, hata satır satır aranıyor. Bu işin çoğu, akşamları kendi mesaisinden arta kalan vakitte gönüllü olarak yapılıyor.",
+   "Çevre, Şehircilik ve İklim Değişikliği Bakanlığı verilerine göre Türkiye'de site ve apartmanlarda yaklaşık 20 milyon bağımsız bölüm var. 2025'te ise TÜİK verilerine göre 1 milyon 688 bin 910 konut el değiştirdi ve bu, Cumhuriyet tarihinin en yüksek yıllık satış rakamı oldu. Kısacası her yıl yeni yönetimler kuruluyor, her yeni yönetim aynı muhasebe yüküyle tanışıyor.",
+   "Yerli site yönetim yazılımı Konsiyon, bu yükü yapay zekâ destekli araçlarla azaltmayı hedefliyor. Şirketin yaklaşımı tek cümlede özetleniyor: Rutin iş sistemde, karar yöneticide."
+  ],
+  "baslik": "Konsiyon, Yapay Zekâ ile Güçlendi",
+  "link": "https://www.webtekno.com/30-bin-projede-kullanilan-yerli-site-yonetim-yazilimi-yapay-zekayla-guclendi-h227936.html",
+  "tarih": "2026-10-28T13:06:25+00:00",
+  "ozet": "İstanbul merkezli yerli bir site yönetim yazılımı olan Konsiyon, yapay zekâ özellikleri ile artık daha kullanışlı.",
+  "gorsel": "https://imgrosetta.webtekno.com/file/694801/694801-640xauto.jpg",
+  "kaynak": "Webtekno",
+  "tur": "turkce",
+  "id": "5ee36b968ba6",
+  "kategori": "Ürün & Araç",
+  "kisa": "İstanbul merkezli yerli bir site yönetim yazılımı olan Konsiyon, yapay zekâ özellikleri ile artık daha kullanışlı."
+ },
+ {
+  "detay": [
+   "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here."
+  ],
+  "baslik": "7 days until TechCrunch Founder Summit: Save up to $100 on your pass before doors open",
+  "link": "https://techcrunch.com/2026/10/28/7-days-until-techcrunch-founder-summit-save-up-to-100-before-doors-open/",
+  "tarih": "2026-10-28T13:00:00+00:00",
+  "ozet": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4. Your chance to save up to $100 on tickets is running out, and the opportunity to learn and connect directly with experienced founders, investors, and startup leaders is almost here.",
+  "gorsel": null,
+  "kaynak": "TechCrunch",
+  "tur": "medya",
+  "id": "11933a85bc5f",
+  "kategori": "Genel",
+  "kisa": "In just 7 days, TechCrunch Founder Summit takes over Boston’s SoWa Power Station on November 4."
+ },
+ {
+  "detay": [
+   "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals.",
+   "There's the fight in Taylor over plans to build a data center at a site that's supposed to be a park. Temple, around 40 miles away, is another sore spot, Bledsoe says. The mayor and City Council members there face recall attempts over data center developments. And some 30 miles outside of Austin, San Marcos became the first city in all of Texas to ban data centers .",
+   "Nowhere in the world are data centers growing more explosively than …"
+  ],
+  "baslik": "Voters in Texas agree: They hate data centers",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1018676/data-center-midterm-election-energy-water-texas",
+  "tarih": "2026-10-28T12:00:00+00:00",
+  "ozet": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project after project facing opposition from locals. There's the fight in Taylor over plans to build a data center at a site that's supposed…",
+  "gorsel": null,
+  "kaynak": "The Verge",
+  "tur": "medya",
+  "id": "8030d1b5c635",
+  "kategori": "Donanım",
+  "kisa": "Ask Texas NAACP president Gary Bledsoe what it's been like to see data center developers descend upon Austin and its surrounding suburbs and he can rattle off project…"
+ },
+ {
+  "detay": [],
+  "baslik": "Pairing industrial AI autonomy and human control",
+  "link": "https://www.technologyreview.com/2026/10/28/1147637/pairing-industrial-ai-autonomy-and-human-control/",
+  "tarih": "2026-10-28T12:00:00+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "MIT Tech Review",
+  "tur": "medya",
+  "id": "056614830d95",
+  "kategori": "Genel",
+  "kisa": ""
+ },
+ {
+  "detay": [
+   "Xiaomi Robot Vacuum 6 Türkiye'de satışa çıktı. Rulo mop, 30.000 Pa emiş gücü ve yapay zeka kamerası sunan model, rakipleri karşısında nerede duruyor?"
+  ],
+  "baslik": "Xiaomi Robot Vacuum 6 Türkiye’de: Fiyatı, özellikleri ve rakipleri",
+  "link": "https://shiftdelete.net/xiaomi-robot-vacuum-6-turkiye-fiyati-ozellikleri",
+  "tarih": "2026-10-28T11:57:59+00:00",
+  "ozet": "Xiaomi Robot Vacuum 6 Türkiye'de satışa çıktı. Rulo mop, 30.000 Pa emiş gücü ve yapay zeka kamerası sunan model, rakipleri karşısında nerede duruyor?",
+  "gorsel": null,
+  "kaynak": "ShiftDelete",
+  "tur": "turkce",
+  "id": "01f002a57880",
+  "kategori": "Model",
+  "kisa": "Xiaomi Robot Vacuum 6 Türkiye'de satışa çıktı. Rulo mop, 30.000 Pa emiş gücü ve yapay zeka kamerası sunan model, rakipleri karşısında nerede duruyor?"
+ },
+ {
+  "detay": [
+   "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations.",
+   "According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\" Users should talk, not type, with their pets, the description says, as well as play \"cozy games\" like stacking groceries or word games. The Play store description says:",
+   "A little friend that listens. A cozy world that's yours. Waddle World is a cozy 16-bit world where your pixel pet lives. Hatch a virtual pet, visit whenever you like, and let it …"
+  ],
+  "baslik": "Meta quietly launched an ‘AI pet journal’ app",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1020410/meta-launched-ai-pet-journal-app-waddle-world",
+  "tarih": "2026-10-28T11:27:30+00:00",
+  "ozet": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations. According to its Apple and Play Store listings, the \"16-bit pet care game\" is not really a game, but \"a daily journal disguised as a pet.\"…",
+  "gorsel": null,
+  "kaynak": "The Verge",
+  "tur": "medya",
+  "id": "6da995572c9c",
+  "kategori": "Ürün & Araç",
+  "kisa": "Meta has launched a \"tamagotchi-style\" pet game called Waddle World, with virtual creatures that chat with users and create doodles to illustrate conversations."
+ },
+ {
   "detay": [
    "Workers tell WIRED that NOA—or “No Ordinary Assistant”—was unhelpful. Bestselling authors also say AI is ruining their relationships with Big Five publishers."
   ],
