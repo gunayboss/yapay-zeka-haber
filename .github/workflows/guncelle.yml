@@ -1,0 +1,54 @@
+name: Haberleri güncelle ve yayınla
+
+on:
+  schedule:
+    - cron: "17 * * * *"   # her saat başı +17 dk (GitHub yoğunluğunu atlatmak için)
+  workflow_dispatch:        # Actions sekmesinden elle çalıştırma
+  push:
+    branches: [main]
+    paths: ["site/index.html", "kaynaklar.json", "topla.py"]
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: guncelle
+  cancel-in-progress: false
+
+jobs:
+  topla:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Haberleri topla
+        run: python topla.py
+
+      - name: Veriyi depoya işle
+        run: |
+          git config user.name "haber-botu"
+          git config user.email "haber-botu@users.noreply.github.com"
+          git add veri/ site/haberler.json site/haberler.js site/feed.xml
+          git diff --cached --quiet || git commit -m "Haberler güncellendi: $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
+
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+
+  yayinla:
+    needs: topla
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - id: deploy
+        uses: actions/deploy-pages@v4

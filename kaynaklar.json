@@ -1,0 +1,19 @@
+[
+  {"ad": "OpenAI", "url": "https://openai.com/news/rss.xml", "tur": "sirket"},
+  {"ad": "Google DeepMind", "url": "https://deepmind.google/blog/rss.xml", "tur": "sirket"},
+  {"ad": "Google AI", "url": "https://blog.google/technology/ai/rss/", "tur": "sirket"},
+  {"ad": "Hugging Face", "url": "https://huggingface.co/blog/feed.xml", "tur": "sirket"},
+  {"ad": "NVIDIA", "url": "https://blogs.nvidia.com/feed/", "tur": "sirket", "filtre": true},
+  {"ad": "Microsoft", "url": "https://news.microsoft.com/source/topics/ai/feed/", "tur": "sirket"},
+  {"ad": "AWS ML", "url": "https://aws.amazon.com/blogs/machine-learning/feed/", "tur": "sirket"},
+  {"ad": "TechCrunch", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "tur": "medya"},
+  {"ad": "The Verge", "url": "https://www.theverge.com/rss/ai-artificial-intelligence/index.xml", "tur": "medya"},
+  {"ad": "VentureBeat", "url": "https://venturebeat.com/category/ai/feed/", "tur": "medya"},
+  {"ad": "MIT Tech Review", "url": "https://www.technologyreview.com/topic/artificial-intelligence/feed", "tur": "medya"},
+  {"ad": "Wired", "url": "https://www.wired.com/feed/tag/ai/latest/rss", "tur": "medya"},
+  {"ad": "Ars Technica", "url": "https://arstechnica.com/ai/feed/", "tur": "medya"},
+  {"ad": "Simon Willison", "url": "https://simonwillison.net/atom/everything/", "tur": "blog", "filtre": true},
+  {"ad": "Hacker News", "url": "https://hnrss.org/newest?q=AI+OR+LLM+OR+GPT+OR+Claude+OR+Gemini&points=150", "tur": "topluluk"},
+  {"ad": "Webtekno", "url": "https://www.webtekno.com/rss.xml", "tur": "turkce", "filtre": true},
+  {"ad": "ShiftDelete", "url": "https://shiftdelete.net/feed", "tur": "turkce", "filtre": true}
+]
