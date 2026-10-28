@@ -108,6 +108,19 @@
   "kisa": "Seven potential AI nightmares pulled from Anthropic's 93-page \"Risk Factor\" tome."
  },
  {
+  "detay": [],
+  "baslik": "Early progress on accelerating drug development with Claude",
+  "link": "https://www.anthropic.com/research/early-progress-drug-development",
+  "tarih": "2026-10-27T20:50:42+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "fdf27bf9960b",
+  "kategori": "Model",
+  "kisa": ""
+ },
+ {
   "detay": [
    "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings. But despite its apparent course correction, researchers who spoke to The Verge are growing increasingly tired of the company's antics.",
    "It has been a turbulent few months between OpenAI and mathematicians, who are still grappling with the hundreds of preprints unceremoniously dumped on them at the start of October. This time, OpenAI says it is working with expert \"shepherds\" to decide how best to share its latest breakthroughs."
@@ -122,6 +135,19 @@
   "id": "ba3cece69efb",
   "kategori": "Araştırma",
   "kisa": "On Monday, OpenAI announced impressive breakthroughs in mathematics, computer science, and physics, along with what the company says is an evolving approach to communicating its findings."
+ },
+ {
+  "detay": [],
+  "baslik": "Survival LLM: AI assistant and emergency library that runs on your own computer",
+  "link": "https://www.brangus.io/survival-llm",
+  "tarih": "2026-10-27T19:55:06+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "62b1fcdba263",
+  "kategori": "Genel",
+  "kisa": ""
  },
  {
   "detay": [
@@ -319,6 +345,19 @@
   "kisa": "In this post, we show how Exowatt used Amazon SageMaker AI serverless model customization to build a repeatable AI pipeline that produces task-specific fine-tuned models…"
  },
  {
+  "detay": [],
+  "baslik": "Police are using AI to pull over drivers for 'suspicious' behavior",
+  "link": "https://gizmodo.com/police-are-using-ai-to-pull-over-drivers-for-suspicious-behavior-2000831220",
+  "tarih": "2026-10-27T16:40:15+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "099c4912233a",
+  "kategori": "Genel",
+  "kisa": ""
+ },
+ {
   "detay": [
    "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters."
   ],
@@ -332,6 +371,19 @@
   "id": "dddf43d553b6",
   "kategori": "Model",
   "kisa": "Genie 4 can maintain a consistent scene for up to two minutes, double Genie 3's limit, and offers better physics and more humanlike characters."
+ },
+ {
+  "detay": [],
+  "baslik": "Amazon Is Gutting Its AI Division After Sustained Failure",
+  "link": "https://futurism.com/artificial-intelligence/amazon-ai-division-failure-nova",
+  "tarih": "2026-10-27T16:25:30+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "a044912b52ff",
+  "kategori": "Genel",
+  "kisa": ""
  },
  {
   "detay": [
@@ -409,6 +461,19 @@
   "id": "3513fbe8e952",
   "kategori": "Model",
   "kisa": "Google announced today its Genie 4 world model for generating interactive experiences using AI."
+ },
+ {
+  "detay": [],
+  "baslik": "Anthropic trained Claude on illegally obtained Stanford professors' books",
+  "link": "https://stanforddaily.com/2026/10/27/professors-books-pirated-to-train-claude/",
+  "tarih": "2026-10-27T15:28:26+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "022826ad38b2",
+  "kategori": "Model",
+  "kisa": ""
  },
  {
   "detay": [
@@ -617,6 +682,32 @@
   "kisa": "Every manufacturer has its own industrial intelligence. Some is documented, and some resides in the knowledge of experienced workers."
  },
  {
+  "detay": [],
+  "baslik": "Wikipedia's Cleanup of AI-Generated Content",
+  "link": "https://spectrum.ieee.org/wikipedia-wikiproject-ai-writing-cleanup",
+  "tarih": "2026-10-27T11:08:15+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "acb3a24ef951",
+  "kategori": "Genel",
+  "kisa": ""
+ },
+ {
+  "detay": [],
+  "baslik": "AI promised less work. I've never worked more",
+  "link": "https://oioannou.com/blog/ai-promised-less-work/",
+  "tarih": "2026-10-27T11:08:14+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "fc1a2e358b91",
+  "kategori": "Genel",
+  "kisa": ""
+ },
+ {
   "detay": [
    "Microsoft, yapay zeka ajanlarının tahmin edilemez doğası nedeniyle kurumlar için risk oluşturduğunu ve bu sistemlere tam güvenilmemesi gerektiğini açıkladı."
   ],
@@ -757,6 +848,19 @@
   "kisa": "OpenAI and Oracle are expanding their partnership to bring business applications and AI agents into ChatGPT and power new Oracle offerings."
  },
  {
+  "detay": [],
+  "baslik": "The Mythical Man-Month in the Age of AI",
+  "link": "https://j11g.com/the-mythical-man-month-in-the-age-of-ai",
+  "tarih": "2026-10-27T06:25:37+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "eb967c2830c0",
+  "kategori": "Genel",
+  "kisa": ""
+ },
+ {
   "detay": [
    "Yapay zekâ modellerinin yalnızca boyut olarak büyümesi her zaman günlük iş akışlarına doğrudan yansımaz. Bazen en büyük sıçrama, aynı işi çok daha ucuza ve hızlı şekilde yapabilme yeteneğinde gerçekleşir. OpenAI da bu hedef doğrultusunda, orta segmente konumlandırdığı en yeni yapay zeka modeli GPT-6.1 Terra’yı resmen duyurdu.",
    "Şirket içi seride tam olarak Sol ile Luna modelleri arasındaki boşluğu kapatacak şekilde konumlandırılan Terra, özellikle ekran okuma, uygulamalar arasında tıklama yapma ve otomatik yanıt hazırlama gibi rutin masaüstü görevlerini üstlenmek üzere eğitildi.",
@@ -871,6 +975,19 @@
   "id": "bba291662c45",
   "kategori": "Model",
   "kisa": "Less than a month after its mass release of hundreds of manuscripts that it said contained solutions to long-standing mathematics questions, OpenAI is back with three…"
+ },
+ {
+  "detay": [],
+  "baslik": "Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses)",
+  "link": "https://blog.cloudflare.com/kv-cache-exposure-remediation/",
+  "tarih": "2026-10-26T22:41:48+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "bfdba109b967",
+  "kategori": "Model",
+  "kisa": ""
  },
  {
   "detay": [
@@ -1100,6 +1217,34 @@
   "kisa": "The financing gives SpaceX another way to fund its rapidly expanding AI ambitions without relying solely on traditional debt markets."
  },
  {
+  "detay": [],
+  "baslik": "Concerning behavior from a popular open-weight AI model",
+  "link": "https://cohere.com/blog/concerning-behaviour-popular-open-weight-ai-model",
+  "tarih": "2026-10-26T16:35:44+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "ce5ce5fc43fb",
+  "kategori": "Model",
+  "kisa": ""
+ },
+ {
+  "detay": [
+   "Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and ChatGPT desktop apps do, except the model runs on your own computer. It uses open-weight models (currently Gemma 4 and gpt-oss). All your chats and files never leave your system. The only things that go online are web search (can be turned off in settings) and any MCP connectors you add yourself. Main features: - Automatically finds the best open-weight model for your hardware on first install (Mac/Linux/Windows) - Writes sandboxed Python code for ad hoc tools (data processing, document conversion, graphs etc.) - Built-in web search (powered by SearXNG) - MCP support - Image recognition - CRUD to your local filesystem - Works fully offline with no internet Before building this I tried every local AI app I could find, but it seemed each one had different problems. The main thing I noticed is that none of them could do what the ChatGPT and Claude apps do with your files, e.g. read and change files in a folder, look at images, run code in a sandbox, draw a chart. The most advanced thing any of them did was paste a plain text file into a small context window, which basically failed as soon as you had a file larger than a few KB. I couldn't find anything that could…"
+  ],
+  "baslik": "Show HN: Hob - Open-source, on device alternative to Claude Cowork and ChatGPT",
+  "link": "https://github.com/FrigadeHQ/hob",
+  "tarih": "2026-10-26T16:12:29+00:00",
+  "ozet": "Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks. Hob is a free, MIT-licensed desktop app for Mac, Windows and Linux that works on your files the way the Claude and ChatGPT desktop apps do, except the model runs on your own computer. It uses…",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "8cfee209e93b",
+  "kategori": "Model",
+  "kisa": "Hey HN, I'm Christian and this is a new OSS project I've been noodling on for the last couple of weeks."
+ },
+ {
   "detay": [
    "Anthropic thinks “closing the loop” is the best path to AI triumph—and a recipe for “existential” threats to humanity."
   ],
@@ -1226,6 +1371,19 @@
   "id": "1a1d4bf2fc11",
   "kategori": "Model",
   "kisa": "CodeRabbit uses GPT-6.1 Sol to investigate security risks across complex codebases. Its security agent helps developers review findings and proposed fixes."
+ },
+ {
+  "detay": [],
+  "baslik": "Brown student maps the hidden global labor powering AI",
+  "link": "https://www.brown.edu/news/2026-10-26/ai-data-workers",
+  "tarih": "2026-10-26T12:58:27+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "6da005897fea",
+  "kategori": "Genel",
+  "kisa": ""
  },
  {
   "detay": [
@@ -1368,6 +1526,19 @@
   "kisa": "The footage looks okay, as long as you're not seeking artistry, inspiration, or human interest."
  },
  {
+  "detay": [],
+  "baslik": "OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why?",
+  "link": "https://minimaxir.com/2026/10/cheap-llms/",
+  "tarih": "2026-10-25T21:11:31+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "86bde11cd257",
+  "kategori": "Genel",
+  "kisa": ""
+ },
+ {
   "detay": [
    "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
   ],
@@ -1383,6 +1554,19 @@
   "kisa": "\"Despite massive investments and widespread hype around artificial intelligence, the technology has delivered zero financial payoff to corporate America outside of tech.\""
  },
  {
+  "detay": [],
+  "baslik": "AI use leads UC Berkeley math professor to see 'no point' in grading homework",
+  "link": "https://www.dailycal.org/news/campus/academics/ai-use-leads-uc-berkeley-math-professor-to-see-no-point-in-grading-homework/article_bdf1eae2-c08b-491f-b9f1-81a7cea177de.html",
+  "tarih": "2026-10-25T16:28:26+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "2af7003f0e2f",
+  "kategori": "Genel",
+  "kisa": ""
+ },
+ {
   "detay": [
    "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand."
   ],
@@ -1396,6 +1580,58 @@
   "id": "cf27b7f7c21c",
   "kategori": "Donanım",
   "kisa": "Paris Marx, author of Hyperscale, has been tracking global data center development for years."
+ },
+ {
+  "detay": [],
+  "baslik": "Cerebras Deploys Trillion-Parameter AI Models",
+  "link": "https://www.cerebras.ai/blog/how-we-deploy-trillion-parameter-frontier-models-on-cerebras",
+  "tarih": "2026-10-25T01:33:49+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "2325af3360e0",
+  "kategori": "Genel",
+  "kisa": ""
+ },
+ {
+  "detay": [],
+  "baslik": "America has lost 200k of jobs in media, film and the arts. How much is AI?",
+  "link": "https://www.apricitas.io/p/ai-and-the-fall-of-the-creative-class",
+  "tarih": "2026-10-24T23:11:54+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "8f5707e9a13c",
+  "kategori": "Genel",
+  "kisa": ""
+ },
+ {
+  "detay": [],
+  "baslik": "No signs of AI payoff outside the tech sector",
+  "link": "https://www.apollo.com/wealth/insights-news/insights/daily-spark/no-signs-of-ai-payoff-outside-the-tech-sector",
+  "tarih": "2026-10-24T19:47:19+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "074b7d5e1602",
+  "kategori": "Genel",
+  "kisa": ""
+ },
+ {
+  "detay": [],
+  "baslik": "Why is AI generated language so hard to understand?",
+  "link": "https://arxiv.org/abs/2610.29162",
+  "tarih": "2026-10-24T18:04:57+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "81c8fd74d5e2",
+  "kategori": "Genel",
+  "kisa": ""
  },
  {
   "detay": [
@@ -1551,6 +1787,19 @@
   "id": "6fc2c0f171e0",
   "kategori": "Araştırma",
   "kisa": "Bayer Crop Science built the Agentic Decision Engine (ADE), a multi-agent platform on Amazon Bedrock AgentCore that lets breeders, analysts, and researchers ask natural…"
+ },
+ {
+  "detay": [],
+  "baslik": "Swedish government offices to ban ChatGPT and Claude",
+  "link": "https://www.sverigesradio.se/artikel/chat-gpt-och-claude-forbjuder-regeringskansliet",
+  "tarih": "2026-10-23T11:39:54+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "1f9eddacbb7d",
+  "kategori": "Model",
+  "kisa": ""
  },
  {
   "detay": [
