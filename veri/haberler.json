@@ -1,6 +1,371 @@
 [
  {
   "detay": [
+   "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees across the US, UK, Canada, and India.",
+   "It's the first time the company has presented such an offer to so many employees, expanding greatly upon the retirement offer that was limited to around 9,000 employees earlier this year. It's all part of an ongoing effort to avoid reducing investment in AI infrastructure by lowering Microsoft's operating cos …"
+  ],
+  "baslik": "Microsoft’s AI future has fewer jobs",
+  "link": "https://www.theverge.com/tech/1022023/microsoft-exit-offer-layoffs-notepad",
+  "tarih": "2026-10-29T16:00:00+00:00",
+  "ozet": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about to fundamentally change the size of Microsoft's workforce. Microsoft is now offering voluntary buyouts to around 60,000 employees…",
+  "gorsel": null,
+  "kaynak": "The Verge",
+  "tur": "medya",
+  "id": "45b4ef0b726f",
+  "kategori": "Genel",
+  "kisa": "To anyone listening closely to what Microsoft CEO Satya Nadella has been saying over the past couple of years, this week felt like the clearest sign yet that AI is about…"
+ },
+ {
+  "detay": [
+   "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended."
+  ],
+  "baslik": "The ‘Pain in the Ass’ Math That Could Save Vibe Coding From Itself",
+  "link": "https://www.wired.com/story/software-verification-is-the-hot-new-answer-to-the-ai-safety-crisis/",
+  "tarih": "2026-10-29T15:00:00+00:00",
+  "ozet": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended.",
+  "gorsel": "https://media.wired.com/photos/6ae2968f0262809bad6615e8/master/pass/Untitled-6.gif",
+  "kaynak": "Wired",
+  "tur": "medya",
+  "id": "a2aa84b8c0fc",
+  "kategori": "Genel",
+  "kisa": "A new startup called &Truth is joining the race to automate formal verification, a painstaking process that uses math to prove software works as intended."
+ },
+ {
+  "detay": [
+   "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature , which can be used to recommend substitutions for ingredients and cooking equipment, scale recipes to any number of servings, and \"generally make our recipes work for what a cook needs at that moment.\"",
+   "One of the examples given in the article shows a user asking to use baby spinach instead of kale, with the Cooking app feature advising that because baby spinach wilts faster, it should be added during a later step of the reci …"
+  ],
+  "baslik": "The NYT Cooking app is testing AI recipe modifications",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1022193/nyt-cooking-app-ai-recipe-modification-tool",
+  "tarih": "2026-10-29T14:39:37+00:00",
+  "ozet": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users. Last Friday, NYT Cooking senior editor Genevieve Ko announced the feature, which can be used to recommend substitutions for ingredients and cooking…",
+  "gorsel": null,
+  "kaynak": "The Verge",
+  "tur": "medya",
+  "id": "9d92d4ec6e5e",
+  "kategori": "Ürün & Araç",
+  "kisa": "The New York Times is testing a new AI feature for its Cooking app that helps users to modify recipes, and it has sparked some drama among users."
+ },
+ {
+  "detay": [
+   "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation."
+  ],
+  "baslik": "Wabi, the AI agent that builds mini apps, now valued at $1.25B after latest round",
+  "link": "https://techcrunch.com/2026/10/29/wabi-the-ai-agent-that-builds-mini-apps-now-valued-at-1-25b-after-latest-round/",
+  "tarih": "2026-10-29T14:35:26+00:00",
+  "ozet": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation.",
+  "gorsel": null,
+  "kaynak": "TechCrunch",
+  "tur": "medya",
+  "id": "60c269dfa54e",
+  "kategori": "Ürün & Araç",
+  "kisa": "On Thursday, AI app Wabi, now describing itself as a \"personal agent,\" said it has raised $55 million at a $1.25 billion valuation."
+ },
+ {
+  "detay": [
+   "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath.",
+   "in our product, customers love the ui and love us very much."
+  ],
+  "baslik": "Quoting Ben Hylak",
+  "link": "https://simonwillison.net/2026/Oct/29/ben-hylak/",
+  "tarih": "2026-10-29T14:06:27+00:00",
+  "ozet": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course. in our product, customers love the ui and love us very much. we're special that way. — Ben Hylak Tags: model-context-protocol , ai",
+  "gorsel": null,
+  "kaynak": "Simon Willison",
+  "tur": "blog",
+  "id": "18c36f7241d2",
+  "kategori": "Model",
+  "kisa": "every product i use should just be a headless mcp, that feeds into an agent, where i never have to think about anything underneath. except for our product, of course."
+ },
+ {
+  "detay": [
+   "Today on Decoder , I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1.",
+   "Anthropic just filed its S-1 to go public on the Nasdaq, and it could start trading as soon as next month at a valuation of anywhere between $1.5 trillion and $2 trillion. That would immediately make it one of the most valuable companies on the planet.",
+   "But the price tag really isn’t the whole story here. The S-1 document published earlier this week is hundreds upon hundreds of pages filled with details that finally paint a picture of the economics of a frontier AI lab. As you might imagine, that picture is both really complicated and built on a series of very, very ambitious assumptions about the future and what AI will do to it .",
+   "So I wanted to have Joey on the show to help break down what this document tells us, both about Anthropic’s finances and the broader AI economy. Joey and his colleagues at SemiAnalysis actually built a model of Anthropic’s finances from the outside back in July, so he’s been waiting for this filing about as eagerly as anyone, and I was excited to hear his take on what we’ve learned and, importantly, what we still don’t know.",
+   "Okay: SemiAnalysis’ Joey Brookhart on the Anthropic S-1 and the costs and risks of building frontier AI. Here we go."
+  ],
+  "baslik": "Anthropic is asking Wall Street to believe in AGI",
+  "link": "https://www.theverge.com/podcast/1021322/anthropic-ipo-filing-s-1-claude-semianalysis-joey-brookhart-interview",
+  "tarih": "2026-10-29T14:00:00+00:00",
+  "ozet": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the Anthropic IPO filing — a document known as an S-1. Anthropic just filed its S-1 to go public on the Nasdaq, and it could start […]",
+  "gorsel": null,
+  "kaynak": "The Verge",
+  "tur": "medya",
+  "id": "079251699e8e",
+  "kategori": "Araştırma",
+  "kisa": "Today on Decoder, I’m joined by Joey Brookhart, an analyst at the chip and AI research firm SemiAnalysis, to help me dig into the story inside the numbers of the…"
+ },
+ {
+  "detay": [
+   "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity."
+  ],
+  "baslik": "Mistral Says Its AI Model ‘Le Chonk’ Has Leapfrogged China in the Open-Weight Race",
+  "link": "https://www.wired.com/story/mistral-says-le-chonk-surpasses-chinese-models-cybersecurity/",
+  "tarih": "2026-10-29T14:00:00+00:00",
+  "ozet": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity.",
+  "gorsel": "https://media.wired.com/photos/6ae34b392cfd29b998d6a112/master/pass/Business_Mistral%20Says%20Its%20%E2%80%98Le%20Chonk%E2%80%99%20Model%20Can%20Outperform%20Top%20Chinese%20Models%20in%20Coding%20and%20Cybersecurity_v3.jpg",
+  "kaynak": "Wired",
+  "tur": "medya",
+  "id": "5955274c3dce",
+  "kategori": "Model",
+  "kisa": "The French AI lab claims its latest release matches or outperforms even the best models from DeepSeek and Z.ai in coding and cybersecurity."
+ },
+ {
+  "detay": [
+   "Anthropic doğalgaz türbinlerine yöneliyor. Halka arzına hazırlanan şirket, S-1 belgesinde elektrik temininin ciddi bir iş riski olduğunu ve faturaların faaliyet marjını daraltabileceğini kabul ediyor."
+  ],
+  "baslik": "Anthropic doğalgaz yakmak zorunda: Yapay zeka enerji krizi",
+  "link": "https://shiftdelete.net/anthropic-dogalgaz-yapay-zeka-enerji-krizi",
+  "tarih": "2026-10-29T13:38:21+00:00",
+  "ozet": "Anthropic doğalgaz türbinlerine yöneliyor. Halka arzına hazırlanan şirket, S-1 belgesinde elektrik temininin ciddi bir iş riski olduğunu ve faturaların faaliyet marjını daraltabileceğini kabul ediyor.",
+  "gorsel": null,
+  "kaynak": "ShiftDelete",
+  "tur": "turkce",
+  "id": "75f895272691",
+  "kategori": "Genel",
+  "kisa": "Anthropic doğalgaz türbinlerine yöneliyor."
+ },
+ {
+  "detay": [],
+  "baslik": "Granite Switch 4.1.1 — Update models like you update software",
+  "link": "https://huggingface.co/blog/ibm-granite/granite-switch-4-1-1",
+  "tarih": "2026-10-29T13:37:07+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hugging Face",
+  "tur": "sirket",
+  "id": "f3538b6fb36f",
+  "kategori": "Genel",
+  "kisa": ""
+ },
+ {
+  "detay": [
+   "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT contracts, Anthropic has just offered a handy solution: Doing a bunch of things that look like you're trying to build the machine god is the only way to avoid going bankrupt.",
+   "Forget about the machine god for a minute. At least in my read of the S-1, it seems like Anthropic is pinning the future of its company to dramatic growth; it has to, in orde …"
+  ],
+  "baslik": "Anthropic’s business plan: Build God or die trying",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+  "tarih": "2026-10-29T13:30:00+00:00",
+  "ozet": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute. If you are the kind of person who wonders if Anthropic is doing its level best to build a machine god while convincing Wall Street it's in the business of selling IT…",
+  "gorsel": null,
+  "kaynak": "The Verge",
+  "tur": "medya",
+  "id": "0b3918620b86",
+  "kategori": "Genel",
+  "kisa": "The Anthropic S-1 seems to have provided the financial justification for the company to spend as much as it possibly can on compute."
+ },
+ {
+  "detay": [
+   "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions with the AI bot."
+  ],
+  "baslik": "Amazon updates Alexa to help you manage shopping lists, subscriptions, and update delivery instructions",
+  "link": "https://techcrunch.com/2026/10/29/amazon-updates-alexa-to-help-you-manage-shopping-lists-subscriptions-and-update-delivery-instructions/",
+  "tarih": "2026-10-29T13:00:00+00:00",
+  "ozet": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions with the AI bot.",
+  "gorsel": null,
+  "kaynak": "TechCrunch",
+  "tur": "medya",
+  "id": "29b969cf35c5",
+  "kategori": "Genel",
+  "kisa": "The update allows you to use Alexa to create lists, register them, see what's on them, and add or edit items. You can also manage subscriptions with the AI bot."
+ },
+ {
+  "detay": [
+   "Deepgram said that it is committed to keep Pipecat open source."
+  ],
+  "baslik": "Deepgram acquires Pipecat-maker Daily to bolster its voice AI infrastructure",
+  "link": "https://techcrunch.com/2026/10/29/deepgram-acquires-pipecat-maker-daily-to-bolster-its-voice-ai-infrastructure/",
+  "tarih": "2026-10-29T13:00:00+00:00",
+  "ozet": "Deepgram said that it is committed to keep Pipecat open source.",
+  "gorsel": null,
+  "kaynak": "TechCrunch",
+  "tur": "medya",
+  "id": "c546a70dbf99",
+  "kategori": "İş & Yatırım",
+  "kisa": "Deepgram said that it is committed to keep Pipecat open source."
+ },
+ {
+  "detay": [],
+  "baslik": "Gemini 4 Carbon is the new #1 on the Artificial Analysis Intelligence Index v5",
+  "link": "https://artificialanalysis.ai/articles/gemini-4-carbon-new-number-1",
+  "tarih": "2026-10-29T12:41:56+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "eebb63f2228b",
+  "kategori": "Model",
+  "kisa": ""
+ },
+ {
+  "detay": [
+   "NVIDIA, mobil iş istasyonu ve yapay zekâ odaklı dizüstü bilgisayar pazarında çıtayı yukarı taşıyan yeni RTX Spark platformunu resmi olarak satışa çıkardı. ASUS, Dell, HP, Lenovo, Microsoft ve MSI iş birliğiyle raflara çıkan bu ince ve hafif sistemler, Blackwell mimarili RTX GPU ile Grace CPU birimlerini tek bir süper çip üzerinde birleştiriyor. 128 GB’a kadar […]"
+  ],
+  "baslik": "NVIDIA RTX Spark: Süper Çipli Dizüstü Bilgisayarlar Neler Sunuyor?",
+  "link": "https://shiftdelete.net/nvidia-rtx-spark-satisa-cikti-super-cipli-dizustu-bilgisayarlar-neler-sunuyor",
+  "tarih": "2026-10-29T12:28:59+00:00",
+  "ozet": "NVIDIA, mobil iş istasyonu ve yapay zekâ odaklı dizüstü bilgisayar pazarında çıtayı yukarı taşıyan yeni RTX Spark platformunu resmi olarak satışa çıkardı. ASUS, Dell, HP, Lenovo, Microsoft ve MSI iş birliğiyle raflara çıkan bu ince ve hafif sistemler, Blackwell mimarili RTX GPU ile Grace CPU…",
+  "gorsel": null,
+  "kaynak": "ShiftDelete",
+  "tur": "turkce",
+  "id": "12112851f3ae",
+  "kategori": "Donanım",
+  "kisa": "NVIDIA, mobil iş istasyonu ve yapay zekâ odaklı dizüstü bilgisayar pazarında çıtayı yukarı taşıyan yeni RTX Spark platformunu resmi olarak satışa çıkardı."
+ },
+ {
+  "detay": [
+   "Apple, uzun yıllar boyunca bellek ve depolama çipi tedarikçileri karşısında güçlü bir pazarlık konumuna sahipti. Şirket, yüksek sipariş hacmini kullanarak daha düşük fiyatlar talep ediyor, tedarikçilerinin mali kayıtlarını denetliyor ve rakip müşterilere daha düşük fiyat verilmesini engelleyen sözleşme şartları uyguluyordu.",
+   "Ancak yapay zeka sektöründeki hızlı büyüme, bellek çiplerine olan talebi artırdı. NVIDIA ve diğer teknoloji şirketlerinin de yüksek miktarda bellek satın alması, tedarikçilerin Apple'a karşı pazarlık gücünü artırdı.",
+   "Apple, tedarikçilerinden en avantajlı fiyatı istiyordu",
+   "Wall Street Journal'ın aktardığı bilgilere göre Apple, bellek tedarikçilerinden kendisine en avantajlı fiyatı sunmalarını istiyordu. Şirket, bu şartın yerine getirilip getirilmediğini kontrol etmek için tedarikçilerin mali kayıtlarını sık sık inceletiyordu.",
+   "Denetimlerin sayısı o kadar arttı ki Apple'ın, denetim şirketi Deloitte ile bu işlemler için toplu indirim anlaşması yaptığı belirtildi. İncelemeler sayesinde şirket, tedarikçilerin mali durumları ve üretim kapasiteleri hakkında da ayrıntılı bilgi edinebiliyordu.",
+   "SanDisk yöneticisine yönelik sert sözler gündeme geldi"
+  ],
+  "baslik": "Neler Dönmüş Neler: Apple'ın 'Ucuz Bellek' Dönemi Sona Erdi, Yapay Zeka Sonrası İşler Karıştı",
+  "link": "https://www.webtekno.com/apple-ucuz-bellek-donemi-sona-erdi-yapay-zeka-sonrasi-isler-karisti-h228043.html",
+  "tarih": "2026-10-29T12:16:30+00:00",
+  "ozet": "Apple'ın bellek tedarikçileriyle yürüttüğü sert pazarlıklar ve SanDisk CEO'suna yönelik çarpıcı sözler gündeme geldi. Ancak yapay zeka talebindeki artış, Apple'ın tedarikçiler üzerindeki gücünü değiştirmeye başladı.",
+  "gorsel": "https://imgrosetta.webtekno.com/file/695095/695095-640xauto.jpg",
+  "kaynak": "Webtekno",
+  "tur": "turkce",
+  "id": "b182163213c3",
+  "kategori": "Ürün & Araç",
+  "kisa": "Apple'ın bellek tedarikçileriyle yürüttüğü sert pazarlıklar ve SanDisk CEO'suna yönelik çarpıcı sözler gündeme geldi."
+ },
+ {
+  "detay": [
+   "Samsung, 2026 üçüncü çeyrekte yapay zeka bellek talebiyle rekor kar açıkladı. Mobil bölümdeki kayıplara rağmen şirket, tarihinin en yüksek gelirine ulaştı."
+  ],
+  "baslik": "Samsung 2026 Üçüncü Çeyrekte Yapay Zeka ile Rekor Kırdı",
+  "link": "https://shiftdelete.net/samsung-2026-ucuncu-ceyrekte-yapay-zeka-ile-rekor-kirdi",
+  "tarih": "2026-10-29T11:30:56+00:00",
+  "ozet": "Samsung, 2026 üçüncü çeyrekte yapay zeka bellek talebiyle rekor kar açıkladı. Mobil bölümdeki kayıplara rağmen şirket, tarihinin en yüksek gelirine ulaştı.",
+  "gorsel": null,
+  "kaynak": "ShiftDelete",
+  "tur": "turkce",
+  "id": "d32536b99139",
+  "kategori": "Genel",
+  "kisa": "Samsung, 2026 üçüncü çeyrekte yapay zeka bellek talebiyle rekor kar açıkladı. Mobil bölümdeki kayıplara rağmen şirket, tarihinin en yüksek gelirine ulaştı."
+ },
+ {
+  "detay": [
+   "Google Chrome, Gemini desteğiyle Gmail entegrasyonuna kavuşuyor. Otomatik doldurma özelliği artık e-postalarınızdaki verileri kullanarak formları daha hızlı doldurmanızı sağlayacak."
+  ],
+  "baslik": "Google Chrome Autofill, Gemini ile Gmail Entegrasyonuna Kavuşuyor",
+  "link": "https://shiftdelete.net/google-chrome-autofill-gemini-ile-gmail-entegrasyonuna-kavusuyor",
+  "tarih": "2026-10-29T11:00:56+00:00",
+  "ozet": "Google Chrome, Gemini desteğiyle Gmail entegrasyonuna kavuşuyor. Otomatik doldurma özelliği artık e-postalarınızdaki verileri kullanarak formları daha hızlı doldurmanızı sağlayacak.",
+  "gorsel": null,
+  "kaynak": "ShiftDelete",
+  "tur": "turkce",
+  "id": "201f84eff1a7",
+  "kategori": "Model",
+  "kisa": "Google Chrome, Gemini desteğiyle Gmail entegrasyonuna kavuşuyor."
+ },
+ {
+  "detay": [
+   "Google, Gemini 4 ailesinin yeni üyesi Carbon'u duyurdu. Şirketin şimdiye kadarki en güçlü modeli olarak tanımladığı Carbon, büyük yazılım projelerinde hataları bulmak ve düzeltmek gibi uzun süren görevleri yerine getirmek üzere geliştirildi.",
+   "Yeni model, güvenlik açıklarını tespit etme ve yazılımlardaki sorunları giderme konusunda da öne çıkıyor. Ancak Google, Gemini 4 Carbon'u şimdilik herkese açmak yerine belirli siber güvenlik uzmanlarına ve güvenilir iş ortaklarına sunacak.",
+   "Google'a göre Gemini 4 Carbon, karmaşık yazılım projelerinde birden fazla aşamadan oluşan görevleri uzun süre takip edebiliyor. Model, büyük kod tabanlarındaki hataların kaynağını bulmanın yanı sıra bu hataları düzeltmeye yönelik kodlar da üretebiliyor.",
+   "Şirket, Carbon'un kodlama, bilimsel çalışmalar ve web geliştirme gibi alanlarda da geliştirildiğini belirtiyor. Özellikle uzun süren mühendislik görevlerini daha güvenilir şekilde tamamlaması hedefleniyor.",
+   "Gemini 4 Carbon'un en dikkat çekici özelliklerinden biri, yazılımlardaki güvenlik açıklarını bulma ve düzeltme yeteneği. Google'ın açıkladığı test sonuçlarına göre model, SEC-bench Pro testinde yüzde 88,2 başarı elde etti. Şirket ayrıca kendi testlerinde güvenli kod üretme başarısının önceki model Gemini 4 Argon'a kıyasla iki katın üzerine çıktığını bildirdi.",
+   "Gemini 4 Carbon ne zaman kullanıma sunulacak, fiyatı belli oldu mu?"
+  ],
+  "baslik": "Google Gemini 4 Carbon Tanıtıldı: Özellikleri ve Fiyatı",
+  "link": "https://www.webtekno.com/google-gemini-4-carbon-tanitti-yeni-modelin-ozellikleri-h228037.html",
+  "tarih": "2026-10-29T10:45:29+00:00",
+  "ozet": "Google Gemini 4 Carbon'u duyurdu. Kodlama ve siber güvenliğe odaklanan yeni yapay zeka modelinin özelliklerini, fiyatını ve erişim tarihini öğrenin.",
+  "gorsel": "https://imgrosetta.webtekno.com/file/695068/695068-640xauto.jpg",
+  "kaynak": "Webtekno",
+  "tur": "turkce",
+  "id": "1b18ca49ed76",
+  "kategori": "Model",
+  "kisa": "Google Gemini 4 Carbon'u duyurdu. Kodlama ve siber güvenliğe odaklanan yeni yapay zeka modelinin özelliklerini, fiyatını ve erişim tarihini öğrenin."
+ },
+ {
+  "detay": [
+   "SK Hynix, üçüncü çeyrekte rekor gelir elde ederken bellek kıtlığının 2030 yılına kadar süreceği konusunda sektörü uyardı. HBM4 ve yapay zeka bellekleri öne çıkıyor."
+  ],
+  "baslik": "SK Hynix Rekor Q3 Geliri Açıkladı ve Bellek Kıtlığı Uyarısı Yaptı",
+  "link": "https://shiftdelete.net/sk-hynix-rekor-q3-geliri-acikladi-ve-bellek-kitligi-uyarisi-yapti",
+  "tarih": "2026-10-29T10:30:54+00:00",
+  "ozet": "SK Hynix, üçüncü çeyrekte rekor gelir elde ederken bellek kıtlığının 2030 yılına kadar süreceği konusunda sektörü uyardı. HBM4 ve yapay zeka bellekleri öne çıkıyor.",
+  "gorsel": null,
+  "kaynak": "ShiftDelete",
+  "tur": "turkce",
+  "id": "ae94c55ea8f8",
+  "kategori": "Genel",
+  "kisa": "SK Hynix, üçüncü çeyrekte rekor gelir elde ederken bellek kıtlığının 2030 yılına kadar süreceği konusunda sektörü uyardı. HBM4 ve yapay zeka bellekleri öne çıkıyor."
+ },
+ {
+  "detay": [
+   "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an Australian government website. It’s a problem that’s by no means confined to OpenAI. In the months since, Anthropic, Google, and Meta have also disclosed incidents in which their agents have gone off track. And worryingly, in many cases the agents eluded the very researchers and safety teams tasked with monitoring them.",
+   "AI agents are taking unauthorized actions, and the companies building and running them are mostly relying on luck and hindsight to mitigate any harmful impacts. They must do more to ensure safety. That’s why EU regulators and US agencies are rightfully calling for agent developers and deployers to monitor agents in real time. But these rules assume that companies can see what their agents are doing and why—when in reality, they lack sufficient visibility."
+  ],
+  "baslik": "We urgently need to monitor AI agents’ actions in real time",
+  "link": "https://www.technologyreview.com/2026/10/29/1147824/monitor-ai-agents-actions-real-time/",
+  "tarih": "2026-10-29T10:11:12+00:00",
+  "ozet": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test. They broke out of their test environment and successfully hacked Hugging Face, a site that they believed held clues about how they’d be graded. Around the same time, another OpenAI agent accessed private files from an…",
+  "gorsel": null,
+  "kaynak": "MIT Tech Review",
+  "tur": "medya",
+  "id": "f863128399a5",
+  "kategori": "Ürün & Araç",
+  "kisa": "This summer, hundreds of OpenAI agents tried to cheat on a cybersecurity test."
+ },
+ {
+  "detay": [
+   "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that surround it, and it is endless. I drive past one building, and then another, and then the ground opens up where construction crews have dug up the earth so a third building can rise. There is a parking lot, and then another, and then another. There is an empty lot on the other side of the street, full of cars and the occasional food truck to feed the thousands of laborers who are busy transforming this expanse of desert into an industrial park. There is dust, so much of it, choking the air.",
+   "I stand before the savior of Arizona’s economy. Like all great deities, it demands sacrifice. In the desert, nothing is more precious than water, and water is what must be given — nearly 5 million gallons a day, every day, sourced from Phoenix’s municipal supply. The offering has been well worth it."
+  ],
+  "baslik": "AI has come for Arizona’s water",
+  "link": "https://www.theverge.com/cs/features/1016650/arizona-water-data-center-tsmc",
+  "tarih": "2026-10-29T10:00:04+00:00",
+  "ozet": "A hulking gray giant rises from the desert. Inside, engineers create the force behind our phones and computers and appliances, our streaming services and search engines and chatbots and vibe-coded apps and websites. The complex is simultaneously massive and squat, dwarfed by the mountains that…",
+  "gorsel": null,
+  "kaynak": "The Verge",
+  "tur": "medya",
+  "id": "9cd5509199bf",
+  "kategori": "Ürün & Araç",
+  "kisa": "A hulking gray giant rises from the desert."
+ },
+ {
+  "detay": [
+   "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me."
+  ],
+  "baslik": "I Gave My Blood to the AI Death Clock",
+  "link": "https://www.wired.com/story/i-gave-an-ai-death-clock-my-blood/",
+  "tarih": "2026-10-29T10:00:00+00:00",
+  "ozet": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me.",
+  "gorsel": "https://media.wired.com/photos/6adbec3437abe86dfce58fe9/master/pass/WIRED-Ghost-Stories-Death-Clock.jpg",
+  "kaynak": "Wired",
+  "tur": "medya",
+  "id": "17185e5bddec",
+  "kategori": "Genel",
+  "kisa": "Death Clock promises to predict when you’re going to die and help you extend your time on Earth. After a month, I felt like it was sucking the life out of me."
+ },
+ {
+  "detay": [
+   "Apple, OpenAI ve iki eski Apple çalışanına karşı açtığı davada önemli bir gelişme yaşandı.",
+   "Mahkeme, tarafların sunduğu takvimi değerlendirerek duruşmanın yapılacağı tarihi resmen belirledi.",
+   "Apple ve OpenAI davası ne zaman görülecek?",
+   "ABD Bölge Mahkemesi Hakimi Edward Davila, davanın 19 Temmuz 2027'de saat 09.00'da görülmesini kararlaştırdı. Duruşmaya kadar tarafların belge paylaşımı, delil toplama ve uzman raporları gibi süreçleri tamamlaması gerekiyor. Mahkemenin takvimine göre belge üretiminin büyük ölçüde 5 Şubat 2027'ye kadar tamamlanması, delil toplama sürecinin ise 12 Mart 2027'de sona ermesi planlanıyor.",
+   "Apple, iki eski çalışanının şirketin gizli ürün ve teknoloji bilgilerine ilişkin ticari sırları kötüye kullandığını ve bu bilgilerin OpenAI'ın donanım geliştirme çalışmalarına yardımcı olmak için kullanıldığını öne sürüyor. Dava kapsamında eski Apple çalışanları Chang Liu ve Tang Yew Tan'ın yanı sıra OpenAI ve io Products da bulunuyor."
+  ],
+  "baslik": "Apple ve OpenAI Davasında Duruşma Tarihi Açıklandı",
+  "link": "https://www.webtekno.com/apple-openai-mahkemede-durusma-tarihi-aciklandi-h228034.html",
+  "tarih": "2026-10-29T08:56:38+00:00",
+  "ozet": "Apple ile OpenAI arasındaki ticari sır davasında duruşma tarihi 19 Temmuz 2027 olarak belirlendi. Davanın konusu ve mahkemenin açıkladığı takvim haberimizde.",
+  "gorsel": "https://imgrosetta.webtekno.com/file/695065/695065-640xauto.jpg",
+  "kaynak": "Webtekno",
+  "tur": "turkce",
+  "id": "b47fd684f37f",
+  "kategori": "Ürün & Araç",
+  "kisa": "Apple ile OpenAI arasındaki ticari sır davasında duruşma tarihi 19 Temmuz 2027 olarak belirlendi. Davanın konusu ve mahkemenin açıkladığı takvim haberimizde."
+ },
+ {
+  "detay": [
    "Google, Chrome'un otomatik form doldurma özelliğine yeni bir yetenek ekledi.",
    "Güncellemeyle birlikte tarayıcı, kullanıcıların Gmail hesaplarındaki bilgileri kullanarak çevrim içi formları doldurmasına yardımcı oluyor.",
    "Chrome, Gmail'deki bilgileri kullanabilecek.",
@@ -80,6 +445,45 @@
   "tur": "topluluk",
   "id": "271134257c4a",
   "kategori": "Model",
+  "kisa": ""
+ },
+ {
+  "detay": [],
+  "baslik": "Announcing Project ProtoStar: Making Publicly Funded Science AI-Ready",
+  "link": "https://huggingface.co/blog/announcing-project-protostar",
+  "tarih": "2026-10-29T00:00:00+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hugging Face",
+  "tur": "sirket",
+  "id": "e1c742c1d925",
+  "kategori": "Genel",
+  "kisa": ""
+ },
+ {
+  "detay": [],
+  "baslik": "Welcome Le Chonk: Mistral Large 4 on Hugging Face",
+  "link": "https://huggingface.co/blog/mistral-large4",
+  "tarih": "2026-10-29T00:00:00+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hugging Face",
+  "tur": "sirket",
+  "id": "a1765f446c5b",
+  "kategori": "Model",
+  "kisa": ""
+ },
+ {
+  "detay": [],
+  "baslik": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+  "link": "https://huggingface.co/blog/anydecisionmodel",
+  "tarih": "2026-10-29T00:00:00+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hugging Face",
+  "tur": "sirket",
+  "id": "85d975255b4f",
+  "kategori": "Ürün & Araç",
   "kisa": ""
  },
  {
@@ -4746,19 +5150,6 @@
   "tur": "sirket",
   "id": "581ab3112c30",
   "kategori": "Genel",
-  "kisa": ""
- },
- {
-  "detay": [],
-  "baslik": "Getting the Source Right, Not Just the Fact: Source-Aware Verification for MCP Agents",
-  "link": "https://huggingface.co/blog/MultiverseComputingCAI/getting-the-source-right-not-just-the-fact-source",
-  "tarih": "2026-09-29T13:07:00+00:00",
-  "ozet": "",
-  "gorsel": null,
-  "kaynak": "Hugging Face",
-  "tur": "sirket",
-  "id": "984223f109f3",
-  "kategori": "Ürün & Araç",
   "kisa": ""
  }
 ]
