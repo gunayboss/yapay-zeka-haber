@@ -1,6 +1,70 @@
 [
  {
   "detay": [
+   "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In general, models that are bigger will (a) be more performant / reliable, (b) cost more per token, and (c) have better recall of esoteric facts. As you note, our models are ordered:",
+   "[ ... ] These days, version number signifies a few things at once: the order of release, the relationship to other releases, and the magnitude of improvement. So something like 6.1 would indicate it was launched after 5.6, may share some similarities to other 6.1 models in terms of training data / personality (which is why it's not 5.7), and isn't a giant enough leap to merit the headlines and expectations that would come with a 7.",
+   "— Ted Sanders , explaining OpenAI's model naming conventions",
+   "Tags: generative-ai , gpt , openai , ai , llms , ted-sanders"
+  ],
+  "baslik": "Quoting Ted Sanders",
+  "link": "https://simonwillison.net/2026/Oct/28/ted-sanders/",
+  "tarih": "2026-10-28T23:23:21+00:00",
+  "ozet": "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In…",
+  "gorsel": null,
+  "kaynak": "Simon Willison",
+  "tur": "blog",
+  "id": "b0fbfced4c00",
+  "kategori": "Model",
+  "kisa": "In general, LLM performance is incredibly multidimensional."
+ },
+ {
+  "detay": [
+   "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the launch of widescreen and long-form video for Instagram , Mosseri said he thinks there's a trend of \"more anxiety and more frustration and more anger about AI,\" particularly in creative industries:",
+   "It's not only getting worse, it's going to continue to get worse. I think we're going to see more frustration and anger, some of it founded, some of it un …"
+  ],
+  "baslik": "Adam Mosseri says negativity around AI is ‘going to get worse’",
+  "link": "https://www.theverge.com/ai-artificial-intelligence/1021644/adam-mosseri-instagram-ai-negativity",
+  "tarih": "2026-10-28T23:05:39+00:00",
+  "ozet": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people really don't like AI, and it's not just young people and creatives. Appearing on the Colin and Samir podcast to talk about the…",
+  "gorsel": null,
+  "kaynak": "The Verge",
+  "tur": "medya",
+  "id": "09f762edab0d",
+  "kategori": "Ürün & Araç",
+  "kisa": "Asked about AI and the trend of college students booing tech CEOs at graduation ceremonies, Instagram head Adam Mosseri acknowledged in an interview that a lot of people…"
+ },
+ {
+  "detay": [
+   "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS."
+  ],
+  "baslik": "Microsoft just shared Azure’s actual revenue in dollars: $33.2 billion",
+  "link": "https://techcrunch.com/2026/10/28/microsoft-just-shared-azures-actual-revenue-in-dollars-33-2-billion/",
+  "tarih": "2026-10-28T21:58:32+00:00",
+  "ozet": "Microsoft has never disclosed Azure's quarterly revenue in dollars. But for the first time, we can see just how close it is getting to besting the biggest competitor in the market, AWS.",
+  "gorsel": null,
+  "kaynak": "TechCrunch",
+  "tur": "medya",
+  "id": "b126d7721238",
+  "kategori": "İş & Yatırım",
+  "kisa": "Microsoft has never disclosed Azure's quarterly revenue in dollars."
+ },
+ {
+  "detay": [
+   "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion."
+  ],
+  "baslik": "Google expands AI Search ads globally as core ad growth slows",
+  "link": "https://techcrunch.com/2026/10/28/google-expands-ai-search-ads-globally-as-core-ad-growth-slows/",
+  "tarih": "2026-10-28T21:48:37+00:00",
+  "ozet": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion.",
+  "gorsel": null,
+  "kaynak": "TechCrunch",
+  "tur": "medya",
+  "id": "f348c6db37d8",
+  "kategori": "İş & Yatırım",
+  "kisa": "The announcement came alongside parent company Alphabet's third-quarter earnings report, which saw revenue grow 25% year over year to $127.6 billion."
+ },
+ {
+  "detay": [
    "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30. It underscores the still-enormous financial dependency of the partnership."
   ],
   "baslik": "Microsoft recorded $10 billion in revenue from OpenAI",
@@ -13,6 +77,22 @@
   "id": "90b267becbf2",
   "kategori": "İş & Yatırım",
   "kisa": "Microsoft said it made $10 billion in revenue from commercial arrangements with OpenAI, including revenue-sharing payments, in the quarter ending September 30."
+ },
+ {
+  "detay": [
+   "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have open-source firmware.",
+   "It will likely run some version of the same software found on the MPC Sample , but with tweaks to accommodate the traditional keyboard, pitch, and mod wheels. Unlike the higher-end MPC Key 37, however, the Sample Key doesn't have pads. Instead, you play back samples with the keys."
+  ],
+  "baslik": "Akai is embracing vibe-coded mods with an open-source MPC",
+  "link": "https://www.theverge.com/gadgets/1021405/akai-open-source-mpc-sample-key",
+  "tarih": "2026-10-28T21:34:04+00:00",
+  "ozet": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding. Akai has decided to embrace the explosion of hackers and custom firmware developers by giving them early access to the device, which will have…",
+  "gorsel": null,
+  "kaynak": "The Verge",
+  "tur": "medya",
+  "id": "e4867209a9cd",
+  "kategori": "Genel",
+  "kisa": "The MPC Sample Key isn't even formally announced yet, but Akai is already showing off what the modding community is cooking up through vibe coding."
  },
  {
   "detay": [
