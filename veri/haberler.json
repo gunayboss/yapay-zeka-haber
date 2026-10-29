@@ -1,6 +1,89 @@
 [
  {
   "detay": [
+   "Google, Chrome'un otomatik form doldurma özelliğine yeni bir yetenek ekledi.",
+   "Güncellemeyle birlikte tarayıcı, kullanıcıların Gmail hesaplarındaki bilgileri kullanarak çevrim içi formları doldurmasına yardımcı oluyor.",
+   "Chrome, Gmail'deki bilgileri kullanabilecek.",
+   "Chrome'un geliştirilmiş otomatik doldurma özelliği, Gmail'deki e-postalardan sipariş numaraları, kargo takip kodları ve uçuş rezervasyonu bilgileri gibi ayrıntıları bulabiliyor. Böylece kullanıcıların ihtiyaç duydukları bilgileri bulmak için e-postalarını tek tek açmasına gerek kalmıyor.",
+   "Kullanıcılar çevrim içi bir formu doldururken Chrome'un sunduğu öneriler arasından ilgili bilgileri seçebiliyor. Gemini tarafından sunulan öneriler, form işlemlerini daha hızlı tamamlamayı amaçlıyor.",
+   "Google, yeni özelliği ilk aşamada ABD'deki kullanıcılara sunuyor. Masaüstü, Android ve iOS platformlarında kullanılabilen özellik için Chrome'da Gemini ve Personal Intelligence desteğinin etkin olması gerekiyor."
+  ],
+  "baslik": "Google Chrome'a Gmail Özelliği Geldi: Formlar Otomatik Dolacak",
+  "link": "https://www.webtekno.com/chrome-yeni-ozellik-gmail-bilgiler-formlara-aktarilacak-h228023.html",
+  "tarih": "2026-10-29T08:10:56+00:00",
+  "ozet": "Google Chrome, Gmail'deki sipariş, kargo ve uçuş bilgilerini otomatik doldurma önerilerinde kullanmaya başladı. Yeni Gemini destekli özelliğin nasıl çalıştığını ve kimlere sunulduğunu öğrenin.",
+  "gorsel": "https://imgrosetta.webtekno.com/file/695051/695051-640xauto.jpg",
+  "kaynak": "Webtekno",
+  "tur": "turkce",
+  "id": "1a34fd63c0cc",
+  "kategori": "Model",
+  "kisa": "Google Chrome, Gmail'deki sipariş, kargo ve uçuş bilgilerini otomatik doldurma önerilerinde kullanmaya başladı."
+ },
+ {
+  "detay": [
+   "Apple ve OpenAI arasındaki ticari sır davası için resmi duruşma tarihi 19 Temmuz 2027 olarak belirlendi. Süreçle ilgili tüm detaylar haberimizde."
+  ],
+  "baslik": "Apple’ın OpenAI’a Açtığı Dava 2027’de Görülecek",
+  "link": "https://shiftdelete.net/apple-openai-ticari-sir-davasi-tarihi",
+  "tarih": "2026-10-29T07:30:57+00:00",
+  "ozet": "Apple ve OpenAI arasındaki ticari sır davası için resmi duruşma tarihi 19 Temmuz 2027 olarak belirlendi. Süreçle ilgili tüm detaylar haberimizde.",
+  "gorsel": null,
+  "kaynak": "ShiftDelete",
+  "tur": "turkce",
+  "id": "529d3686b343",
+  "kategori": "Ürün & Araç",
+  "kisa": "Apple ve OpenAI arasındaki ticari sır davası için resmi duruşma tarihi 19 Temmuz 2027 olarak belirlendi. Süreçle ilgili tüm detaylar haberimizde."
+ },
+ {
+  "detay": [
+   "Çinli araştırmacılar, tek bir fiber optik kablo üzerinden saniyede 3,2 petabit veri aktararak yeni bir rekora imza attı. Gerçekleştirilen deneyde, yüksek miktarda verinin kısa sürede aktarılması sağlandı.",
+   "Peki bu hız nasıl elde edildi ve yeni teknoloji hangi alanlarda kullanılabilecek?",
+   "Çinli araştırmacılar saniyede 3,2 petabit hıza nasıl ulaştı?",
+   "Rekorun arkasında, 24 çekirdekli özel bir fiber optik kablo bulunuyor. Araştırmacılar, 10,3 kilometrelik bağlantı üzerinde verileri aynı kablonun içindeki farklı çekirdeklerden ve üç ayrı dalga boyu bandından yararlanarak aktardı. Böylece binlerce paralel iletişim kanalının aynı anda çalışması sağlandı.",
+   "Buradaki temel fark, yalnızca tek bir veri akışını hızlandırmak değil, aynı fiziksel kablo üzerinden taşınabilen toplam veri miktarını artırmak. Ekip ayrıca kendi geliştirdiği optik modülleri kullanarak gerçek zamanlı veri aktarımını gerçekleştirdi.",
+   "Yapay zeka teknolojilerinin gelişmesiyle birlikte veri merkezlerinin işlediği ve birbirine aktardığı veri miktarı da artıyor. Büyük yapay zeka modellerinin eğitilmesi, çok sayıda sunucunun koordineli çalışmasını ve bu sistemler arasında yüksek kapasiteli bağlantılar kurulmasını gerektiriyor. Bu nedenle mevcut fiber optik altyapıların daha fazla veri taşıyabilmesi, gelecekte önemli bir avantaj sağlayabilir."
+  ],
+  "baslik": "İnternet Hızında Yeni Rekor",
+  "link": "https://www.webtekno.com/internet-hizinda-yeni-dunya-rekoru-h228016.html",
+  "tarih": "2026-10-29T07:07:32+00:00",
+  "ozet": "Çinli araştırmacılar, tek bir fiber optik kablo üzerinden saniyede 3,2 petabit veri aktararak yeni bir rekora imza attı. İşte rekorun teknik ayrıntıları, yapay zeka için önemi ve ev internetine olası etkileri.",
+  "gorsel": "https://imgrosetta.webtekno.com/file/695035/695035-640xauto.jpg",
+  "kaynak": "Webtekno",
+  "tur": "turkce",
+  "id": "dee6abcf4169",
+  "kategori": "Araştırma",
+  "kisa": "Çinli araştırmacılar, tek bir fiber optik kablo üzerinden saniyede 3,2 petabit veri aktararak yeni bir rekora imza attı."
+ },
+ {
+  "detay": [
+   "NVIDIA RTX Remix 1.6 güncellemesi ile Minecraft Java Edition için path tracing desteği geldi. Yeni DLSS 5 ve yapay zeka araçlarını keşfedin."
+  ],
+  "baslik": "NVIDIA RTX Remix 1.6 Yayınlandı: Yeni Özellikler Neler?",
+  "link": "https://shiftdelete.net/nvidia-rtx-remix-1-6-minecraft-path-tracing",
+  "tarih": "2026-10-29T06:00:21+00:00",
+  "ozet": "NVIDIA RTX Remix 1.6 güncellemesi ile Minecraft Java Edition için path tracing desteği geldi. Yeni DLSS 5 ve yapay zeka araçlarını keşfedin.",
+  "gorsel": null,
+  "kaynak": "ShiftDelete",
+  "tur": "turkce",
+  "id": "b34a82540fd3",
+  "kategori": "Ürün & Araç",
+  "kisa": "NVIDIA RTX Remix 1.6 güncellemesi ile Minecraft Java Edition için path tracing desteği geldi. Yeni DLSS 5 ve yapay zeka araçlarını keşfedin."
+ },
+ {
+  "detay": [],
+  "baslik": "Claude Code regularly sends each background agent’s transcript to its model",
+  "link": "https://gist.github.com/flamerix-ai/c3905705cc4205e5de3011fa2e74efce",
+  "tarih": "2026-10-29T03:33:42+00:00",
+  "ozet": "",
+  "gorsel": null,
+  "kaynak": "Hacker News",
+  "tur": "topluluk",
+  "id": "271134257c4a",
+  "kategori": "Model",
+  "kisa": ""
+ },
+ {
+  "detay": [
    "In general, LLM performance is incredibly multidimensional. There's no guarantee of a fixed ordering where the model that is best at math is also the model that's best at jokes. Despite that complexity, much of the variation in performance is explained by just a single variable: model size. In general, models that are bigger will (a) be more performant / reliable, (b) cost more per token, and (c) have better recall of esoteric facts. As you note, our models are ordered:",
    "[ ... ] These days, version number signifies a few things at once: the order of release, the relationship to other releases, and the magnitude of improvement. So something like 6.1 would indicate it was launched after 5.6, may share some similarities to other 6.1 models in terms of training data / personality (which is why it's not 5.7), and isn't a giant enough leap to merit the headlines and expectations that would come with a 7.",
    "— Ted Sanders , explaining OpenAI's model naming conventions",
