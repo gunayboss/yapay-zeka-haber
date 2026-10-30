@@ -1,6 +1,55 @@
 [
  {
   "detay": [
+   "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday."
+  ],
+  "baslik": "AWS will be a $1T business, Jassy says. But first, it will spend big.",
+  "link": "https://techcrunch.com/2026/10/29/aws-will-be-a-1t-business-jassy-says-but-first-it-will-spend-big/",
+  "tarih": "2026-10-29T23:42:22+00:00",
+  "ozet": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business. But to do that it will have to continue on its capex spending spree, its CEO said Thursday.",
+  "gorsel": null,
+  "kaynak": "TechCrunch",
+  "tur": "medya",
+  "id": "05367ef1f34c",
+  "kategori": "İş & Yatırım",
+  "kisa": "Amazon wants to be the king of AI cloud computing and become the first $1 trillion revenue business."
+ },
+ {
+  "detay": [
+   "API credits benefit for eligible ChatGPT subscriptions",
+   "Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API.",
+   "OpenAI have now launched pretty much exactly the same deal: if you have a $100, $200, or $500 subscription plan with them you now get that same quantity of credits to apply to one of your API organizations.",
+   "I maintain subscriptions with both companies, so this is great news for me! I may even ship some public-facing demos now that the credits are already covered by my existing subscriptions.",
+   "Tags: ai , openai , generative-ai , llms , anthropic , llm-pricing"
+  ],
+  "baslik": "API credits benefit for eligible ChatGPT subscriptions",
+  "link": "https://simonwillison.net/2026/Oct/29/api-credits/",
+  "tarih": "2026-10-29T22:48:29+00:00",
+  "ozet": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200, and $500 per month subscribers would get the equivalent quantity of (expiring) credits to use with the Anthropic API. OpenAI have…",
+  "gorsel": null,
+  "kaynak": "Simon Willison",
+  "tur": "blog",
+  "id": "07b8277675a3",
+  "kategori": "Ürün & Araç",
+  "kisa": "API credits benefit for eligible ChatGPT subscriptions Earlier this month Anthropic announced a generous new benefit for their Max and Team subscriptions: $100, $200,…"
+ },
+ {
+  "detay": [
+   "TikTok USDS, gelişmiş yapay zeka modelleri için 4 gigavatlık enerji kapasitesi arıyor. Şirket, Oracle ile iş birliğini sürdürmeye devam ediyor."
+  ],
+  "baslik": "TikTok Yapay Zeka için Enerji Arıyor",
+  "link": "https://shiftdelete.net/tiktok-usds-yapay-zeka-enerji-kapasitesi",
+  "tarih": "2026-10-29T21:30:46+00:00",
+  "ozet": "TikTok USDS, gelişmiş yapay zeka modelleri için 4 gigavatlık enerji kapasitesi arıyor. Şirket, Oracle ile iş birliğini sürdürmeye devam ediyor.",
+  "gorsel": null,
+  "kaynak": "ShiftDelete",
+  "tur": "turkce",
+  "id": "d4787d65b3ed",
+  "kategori": "Genel",
+  "kisa": "TikTok USDS, gelişmiş yapay zeka modelleri için 4 gigavatlık enerji kapasitesi arıyor. Şirket, Oracle ile iş birliğini sürdürmeye devam ediyor."
+ },
+ {
+  "detay": [
    "Google, yapay zeka destekli arama reklamlarını küresel pazara taşıyor. Şirket, yavaşlayan arama reklamcılığı büyümesini yeni AI özellikleriyle aşmayı hedefliyor."
   ],
   "baslik": "Google Yapay Zeka Reklamlarını Dünyaya Açıyor",
@@ -5601,18 +5650,5 @@
   "id": "0a622a33b8e3",
   "kategori": "Genel",
   "kisa": "Proof of concept for watermarking AI-generated proteins while preserving biological function."
- },
- {
-  "detay": [],
-  "baslik": "Open TTS Leaderboard: Scalable Evaluation for Multilingual Text-to-Speech and Voice Cloning",
-  "link": "https://huggingface.co/blog/open-tts-leaderboard",
-  "tarih": "2026-09-30T00:00:00+00:00",
-  "ozet": "",
-  "gorsel": null,
-  "kaynak": "Hugging Face",
-  "tur": "sirket",
-  "id": "581ab3112c30",
-  "kategori": "Genel",
-  "kisa": ""
  }
 ]
